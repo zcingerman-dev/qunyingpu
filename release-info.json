@@ -1,0 +1,20 @@
+{
+  "version": "v1.0.0",
+  "title": "群英谱 v1.0.0 · Windows 便携版",
+  "repository": "https://github.com/zcingerman-dev/qunyingpu",
+  "portableDownload": "https://pan.quark.cn/s/ecbb3918af01?pwd=p9Hz",
+  "extractionCode": "p9Hz",
+  "expiry": "按提供的截图为永久有效",
+  "portableSha256": null,
+  "checksumStatus": "发布者已人工核对网盘文件为此前便携版ZIP；未单独提供SHA-256",
+  "portableVerification": {
+    "method": "PUBLISHER_MANUAL_CONFIRMATION",
+    "date": "2026-10-10"
+  },
+  "upstream": "https://github.com/libnoname/noname",
+  "runtime": {
+    "python": "3.12.14",
+    "node": "v24.19.0"
+  },
+  "publicationMethod": "GITHUB_SOURCE_AND_DOCUMENTATION_WITH_EXTERNAL_PORTABLE_DOWNLOAD"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "identity-lichu-zhetu",
+  "status": "ready",
+  "title": "主公立储与内奸择途",
+  "supportedPlayers": [
+    8,
+    9,
+    10
+  ],
+  "singleGeneral": true,
+  "doubleTraitor": "individual_choices",
+  "sources": [
+    {
+      "title": "三国杀移动版官方玩法介绍",
+      "url": "https://www.sanguosha.cn/pc/video/detail/882.html",
+      "published": "2026-05-22",
+      "coverage": "announcement_only"
+    }
+  ],
+  "confirmed": "2026-10-08",
+  "authority": "user_confirmed_project_rules",
+  "rules": {
+    "appointment": "anytime_once_other_living_player",
+    "damageSharing": false,
+    "inheritance": "living_loyal_heir_on_lord_death",
+    "inheritanceMaxHp": 1,
+    "inheritanceRecover": 1,
+    "inheritanceCards": "all_hejsx",
+    "inheritanceSkills": "owned_lord_skills",
+    "routeStartRound": 2,
+    "routeEligibility": "living_lord_and_loyal_strictly_less_than_half_living_players",
+    "routes": [
+      "loyal",
+      "independent_wild"
+    ],
+    "wildSkills": [
+      "mobile_feiyang",
+      "bahu"
+    ],
+    "killRewards": "standard_identity",
+    "heirFailure": "heir_death_or_wild_route_while_lord_alive",
+    "heirFailurePenalty": {
+      "maxHp": -1,
+      "loseHp": 1,
+      "once": true
+    },
+    "wildMark": {
+      "grant": "once_on_first_successful_wild_route",
+      "count": 1,
+      "draw": 2,
+      "recover": 1,
+      "choice": "one_of_draw_or_recover",
+      "useWindow": "own_turn_including_extra_turn_and_dying",
+      "outsideTurnDying": false,
+      "carryAcrossTurns": true,
+      "replenish": false,
+      "fullHpRecover": false,
+      "clearOn": [
+        "death",
+        "skill_or_identity_loss"
+      ]
+    }
+  },
+  "pending": []
+}

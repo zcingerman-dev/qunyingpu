@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>武将资源档案 · 双包合并验收</title>
+  <link rel="stylesheet" href="catalog.css">
+  <script defer src="catalog-data.js"></script>
+  <script defer src="catalog.js"></script>
+</head>
+<body>
+  <header>
+    <div class="brand"><span class="seal">将</span><div><strong>武将资源档案</strong><small>诗笺移动包 · 子琪电脑版</small></div></div>
+    <nav aria-label="目录"><button data-tab="resources" class="active">资源目录</button><button data-tab="characters">武将定义</button><button data-tab="report">分析报告</button><button data-tab="requirements">已确认需求</button></nav>
+    <span class="status">模块 01 · 待验收</span>
+  </header>
+  <main>
+    <section class="hero">
+      <div><span class="eyebrow">相同内容合并 · 同名冲突以后包为准</span><h1>武将与素材目录</h1><p>查找立绘、皮肤、语音和技能，按来源包核对合并结果。</p><div class="hero-actions"><a href="合并报告.md">双包合并报告</a><a href="武将替换记录.csv" download>武将替换记录</a></div></div>
+      <div class="stats"><div><strong id="stat-files">—</strong><span>已索引文件</span></div><div><strong id="stat-images">—</strong><span>图片素材</span></div><div><strong id="stat-characters">—</strong><span>不同武将 ID</span></div><div><strong id="stat-audio">—</strong><span>音频文件</span></div></div>
+    </section>
+    <div class="background-controls"><label>浏览背景 <select id="background-picker" aria-label="浏览背景"><option value="">默认背景</option></select></label><label class="upload">选择本地背景<input id="background-upload" type="file" accept="image/*"></label><button id="clear-background">清除背景</button><span>背景仅用于目录浏览</span></div>
+    <section id="browser-panel">
+      <div class="workspace">
+        <aside id="resource-sidebar" aria-label="资源类型"></aside>
+        <section class="listing">
+          <div class="toolbar"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索武将名、技能名、文件名或路径" aria-label="搜索"></label><select id="category-filter" aria-label="资源分类"></select><select id="pack-filter" aria-label="资源包或扩展"></select><select id="source-filter" aria-label="包体来源"></select></div>
+          <div class="result-bar"><div><strong id="listing-title">全部资源</strong><span id="result-count"></span></div><div class="pager"><button id="previous" aria-label="上一页">←</button><span id="page-number"></span><button id="next" aria-label="下一页">→</button></div></div>
+          <p id="listing-note" class="note"></p>
+          <div id="grid" class="grid"></div>
+          <div id="empty" hidden>没有找到匹配项。可以缩短搜索词，或切换来源包和分类。</div>
+        </section>
+      </div>
+    </section>
+    <section id="report-panel" hidden class="document-panel">
+      <h2>拆包与复用分析</h2><p>统计来自当前包体；未运行其中的游戏脚本，也未产生 API 调用或训练成绩。</p>
+      <div id="report-content"></div>
+      <div class="downloads"><a href="合并报告.md">合并报告</a><a href="武将替换记录.csv" download>武将替换记录</a><a href="武将替换记录.json" download>完整替换数据</a><a href="拆包报告.md">首包报告</a><a href="资源清单.csv" download>资源清单</a><a href="resource-index.json" download>资源数据</a><a href="characters.json" download>武将数据</a><a href="skills.json" download>技能与 AI 位置</a><a href="dynamic-index.json" download>动态素材配套</a><a href="package-associations.json" download>包内搭配关系</a><a href="duplicate-index.json" download>合并来源清单</a></div>
+    </section>
+    <section id="requirements-panel" hidden class="document-panel">
+      <h2>需求与交付边界</h2><p>电脑端验收；各模块独立交付，验收后再组合。</p>
+      <div class="document-grid">
+        <article><span class="number">01</span><h3>Wiki 与武将关系</h3><p>覆盖包体武将和不同版本；区分史实、作品与包体设定。纯虚构人物归入“其他”，真实人物的架空版本保留版本标签。包内简介和搭配关系保留出处，史实关系另行核实。</p></article>
+        <article><span class="number">02</span><h3>纯 AI 单挑</h3><p>支持任意决策点手动接管和交回 AI，以及观战、暂停、逐步运行、倍速、回放。接管或修改状态的对局保留记录，单独标记。</p></article>
+        <article><span class="number">03</span><h3>武将通用策略训练</h3><p>API 大模型操作武将，与无技能白板对战。白板最高 40 血，训练默认 100 局且可修改；训练结束固定独立操作策略，保留版本与训练记录。</p></article>
+        <article><span class="number">04</span><h3>针对对手的策略</h3><p>双方先针对对手进行操作优化，再进行正式实战。针对策略和通用策略分别保存；正式测评固定策略，使用独立对局，不在测评中继续优化。</p></article>
+        <article><span class="number">05</span><h3>开局重抽与测评</h3><p>正常发牌后最多额外重抽 8 次；每次整手替换、无费用、不保留单张。AI 决定留下或继续，不能预知下一手。统计零重抽和最多重抽 8 次的首轮过牌、先手秒杀概率等，附条件和样本量。</p></article>
+        <article><span class="number">06</span><h3>界面、扩展与存储</h3><p>电脑端参考手杀布局，支持背景切换。各对局模式支持扩展内容与控制台，规则和状态修改留痕。数据本地保存、可导出与回滚；真实 API 接入时配置模型、密钥与费用上限。</p></article>
+      </div><p class="note">工程默认值及尚未接入的配置见需求文件。本页面是模块 01 的资源验收入口，游戏对战与训练将在各自模块中交付。</p><a href="需求与验收.md">查看完整需求与验收文件 ↗</a>
+    </section>
+    <footer>诗笺移动包 1.11.0 + 子琪电脑版 1.11.5.2 · 本地资源目录 · 同名冲突以后包为准</footer>
+  </main>
+  <dialog id="detail-dialog"><button id="close-detail" class="close" aria-label="关闭详情">×</button><div id="detail-content"></div></dialog>
+  <div id="toast" role="status" hidden></div>
+</body>
+</html>

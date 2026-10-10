@@ -1,0 +1,4338 @@
+{
+  "packs": {
+    "standard": [
+      [
+        "spade",
+        7,
+        "sha"
+      ],
+      [
+        "spade",
+        8,
+        "sha"
+      ],
+      [
+        "spade",
+        8,
+        "sha"
+      ],
+      [
+        "spade",
+        9,
+        "sha"
+      ],
+      [
+        "spade",
+        9,
+        "sha"
+      ],
+      [
+        "spade",
+        10,
+        "sha"
+      ],
+      [
+        "spade",
+        10,
+        "sha"
+      ],
+      [
+        "club",
+        2,
+        "sha"
+      ],
+      [
+        "club",
+        3,
+        "sha"
+      ],
+      [
+        "club",
+        4,
+        "sha"
+      ],
+      [
+        "club",
+        5,
+        "sha"
+      ],
+      [
+        "club",
+        6,
+        "sha"
+      ],
+      [
+        "club",
+        7,
+        "sha"
+      ],
+      [
+        "club",
+        8,
+        "sha"
+      ],
+      [
+        "club",
+        8,
+        "sha"
+      ],
+      [
+        "club",
+        9,
+        "sha"
+      ],
+      [
+        "club",
+        9,
+        "sha"
+      ],
+      [
+        "club",
+        10,
+        "sha"
+      ],
+      [
+        "club",
+        10,
+        "sha"
+      ],
+      [
+        "club",
+        11,
+        "sha"
+      ],
+      [
+        "club",
+        11,
+        "sha"
+      ],
+      [
+        "heart",
+        10,
+        "sha"
+      ],
+      [
+        "heart",
+        10,
+        "sha"
+      ],
+      [
+        "heart",
+        11,
+        "sha"
+      ],
+      [
+        "diamond",
+        6,
+        "sha"
+      ],
+      [
+        "diamond",
+        7,
+        "sha"
+      ],
+      [
+        "diamond",
+        8,
+        "sha"
+      ],
+      [
+        "diamond",
+        9,
+        "sha"
+      ],
+      [
+        "diamond",
+        10,
+        "sha"
+      ],
+      [
+        "diamond",
+        13,
+        "sha"
+      ],
+      [
+        "heart",
+        2,
+        "shan"
+      ],
+      [
+        "heart",
+        2,
+        "shan"
+      ],
+      [
+        "heart",
+        13,
+        "shan"
+      ],
+      [
+        "diamond",
+        2,
+        "shan"
+      ],
+      [
+        "diamond",
+        2,
+        "shan"
+      ],
+      [
+        "diamond",
+        3,
+        "shan"
+      ],
+      [
+        "diamond",
+        4,
+        "shan"
+      ],
+      [
+        "diamond",
+        5,
+        "shan"
+      ],
+      [
+        "diamond",
+        6,
+        "shan"
+      ],
+      [
+        "diamond",
+        7,
+        "shan"
+      ],
+      [
+        "diamond",
+        8,
+        "shan"
+      ],
+      [
+        "diamond",
+        9,
+        "shan"
+      ],
+      [
+        "diamond",
+        10,
+        "shan"
+      ],
+      [
+        "diamond",
+        11,
+        "shan"
+      ],
+      [
+        "diamond",
+        11,
+        "shan"
+      ],
+      [
+        "heart",
+        3,
+        "tao"
+      ],
+      [
+        "heart",
+        4,
+        "tao"
+      ],
+      [
+        "heart",
+        6,
+        "tao"
+      ],
+      [
+        "heart",
+        7,
+        "tao"
+      ],
+      [
+        "heart",
+        8,
+        "tao"
+      ],
+      [
+        "heart",
+        9,
+        "tao"
+      ],
+      [
+        "heart",
+        12,
+        "tao"
+      ],
+      [
+        "diamond",
+        12,
+        "tao"
+      ],
+      [
+        "spade",
+        2,
+        "bagua"
+      ],
+      [
+        "club",
+        2,
+        "bagua"
+      ],
+      [
+        "spade",
+        5,
+        "jueying"
+      ],
+      [
+        "club",
+        5,
+        "dilu"
+      ],
+      [
+        "heart",
+        13,
+        "zhuahuang"
+      ],
+      [
+        "heart",
+        5,
+        "chitu"
+      ],
+      [
+        "spade",
+        13,
+        "dawan"
+      ],
+      [
+        "diamond",
+        13,
+        "zixin"
+      ],
+      [
+        "club",
+        1,
+        "zhuge"
+      ],
+      [
+        "diamond",
+        1,
+        "zhuge"
+      ],
+      [
+        "spade",
+        2,
+        "cixiong"
+      ],
+      [
+        "spade",
+        6,
+        "qinggang"
+      ],
+      [
+        "spade",
+        5,
+        "qinglong"
+      ],
+      [
+        "spade",
+        12,
+        "zhangba"
+      ],
+      [
+        "diamond",
+        5,
+        "guanshi"
+      ],
+      [
+        "diamond",
+        12,
+        "fangtian"
+      ],
+      [
+        "heart",
+        5,
+        "qilin"
+      ],
+      [
+        "heart",
+        3,
+        "wugu"
+      ],
+      [
+        "heart",
+        4,
+        "wugu"
+      ],
+      [
+        "heart",
+        1,
+        "taoyuan"
+      ],
+      [
+        "spade",
+        7,
+        "nanman"
+      ],
+      [
+        "spade",
+        13,
+        "nanman"
+      ],
+      [
+        "club",
+        7,
+        "nanman"
+      ],
+      [
+        "heart",
+        1,
+        "wanjian"
+      ],
+      [
+        "spade",
+        1,
+        "juedou"
+      ],
+      [
+        "club",
+        1,
+        "juedou"
+      ],
+      [
+        "diamond",
+        1,
+        "juedou"
+      ],
+      [
+        "heart",
+        7,
+        "wuzhong"
+      ],
+      [
+        "heart",
+        8,
+        "wuzhong"
+      ],
+      [
+        "heart",
+        9,
+        "wuzhong"
+      ],
+      [
+        "heart",
+        11,
+        "wuzhong"
+      ],
+      [
+        "spade",
+        3,
+        "shunshou"
+      ],
+      [
+        "spade",
+        4,
+        "shunshou"
+      ],
+      [
+        "spade",
+        11,
+        "shunshou"
+      ],
+      [
+        "diamond",
+        3,
+        "shunshou"
+      ],
+      [
+        "diamond",
+        4,
+        "shunshou"
+      ],
+      [
+        "spade",
+        3,
+        "guohe"
+      ],
+      [
+        "spade",
+        4,
+        "guohe"
+      ],
+      [
+        "spade",
+        12,
+        "guohe"
+      ],
+      [
+        "club",
+        3,
+        "guohe"
+      ],
+      [
+        "club",
+        4,
+        "guohe"
+      ],
+      [
+        "heart",
+        12,
+        "guohe"
+      ],
+      [
+        "club",
+        12,
+        "jiedao"
+      ],
+      [
+        "club",
+        13,
+        "jiedao"
+      ],
+      [
+        "spade",
+        11,
+        "wuxie"
+      ],
+      [
+        "club",
+        12,
+        "wuxie"
+      ],
+      [
+        "club",
+        13,
+        "wuxie"
+      ],
+      [
+        "spade",
+        6,
+        "lebu"
+      ],
+      [
+        "club",
+        6,
+        "lebu"
+      ],
+      [
+        "heart",
+        6,
+        "lebu"
+      ],
+      [
+        "spade",
+        1,
+        "shandian"
+      ],
+      [
+        "spade",
+        2,
+        "hanbing"
+      ],
+      [
+        "club",
+        2,
+        "renwang"
+      ],
+      [
+        "heart",
+        12,
+        "shandian"
+      ],
+      [
+        "diamond",
+        12,
+        "wuxie"
+      ]
+    ],
+    "extra": [
+      [
+        "heart",
+        4,
+        "sha",
+        "fire"
+      ],
+      [
+        "heart",
+        7,
+        "sha",
+        "fire"
+      ],
+      [
+        "heart",
+        10,
+        "sha",
+        "fire"
+      ],
+      [
+        "diamond",
+        4,
+        "sha",
+        "fire"
+      ],
+      [
+        "diamond",
+        5,
+        "sha",
+        "fire"
+      ],
+      [
+        "spade",
+        4,
+        "sha",
+        "thunder"
+      ],
+      [
+        "spade",
+        5,
+        "sha",
+        "thunder"
+      ],
+      [
+        "spade",
+        6,
+        "sha",
+        "thunder"
+      ],
+      [
+        "spade",
+        7,
+        "sha",
+        "thunder"
+      ],
+      [
+        "spade",
+        8,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        5,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        6,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        7,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        8,
+        "sha",
+        "thunder"
+      ],
+      [
+        "heart",
+        8,
+        "shan"
+      ],
+      [
+        "heart",
+        9,
+        "shan"
+      ],
+      [
+        "heart",
+        11,
+        "shan"
+      ],
+      [
+        "heart",
+        12,
+        "shan"
+      ],
+      [
+        "diamond",
+        6,
+        "shan"
+      ],
+      [
+        "diamond",
+        7,
+        "shan"
+      ],
+      [
+        "diamond",
+        8,
+        "shan"
+      ],
+      [
+        "diamond",
+        10,
+        "shan"
+      ],
+      [
+        "diamond",
+        11,
+        "shan"
+      ],
+      [
+        "heart",
+        5,
+        "tao"
+      ],
+      [
+        "heart",
+        6,
+        "tao"
+      ],
+      [
+        "diamond",
+        2,
+        "tao"
+      ],
+      [
+        "diamond",
+        3,
+        "tao"
+      ],
+      [
+        "diamond",
+        9,
+        "jiu"
+      ],
+      [
+        "spade",
+        3,
+        "jiu"
+      ],
+      [
+        "spade",
+        9,
+        "jiu"
+      ],
+      [
+        "club",
+        3,
+        "jiu"
+      ],
+      [
+        "club",
+        9,
+        "jiu"
+      ],
+      [
+        "diamond",
+        13,
+        "hualiu"
+      ],
+      [
+        "club",
+        1,
+        "baiyin"
+      ],
+      [
+        "spade",
+        2,
+        "tengjia"
+      ],
+      [
+        "club",
+        2,
+        "tengjia"
+      ],
+      [
+        "spade",
+        1,
+        "guding"
+      ],
+      [
+        "diamond",
+        1,
+        "zhuque"
+      ],
+      [
+        "heart",
+        2,
+        "huogong"
+      ],
+      [
+        "heart",
+        3,
+        "huogong"
+      ],
+      [
+        "diamond",
+        12,
+        "huogong"
+      ],
+      [
+        "spade",
+        11,
+        "tiesuo"
+      ],
+      [
+        "spade",
+        12,
+        "tiesuo"
+      ],
+      [
+        "club",
+        10,
+        "tiesuo"
+      ],
+      [
+        "club",
+        11,
+        "tiesuo"
+      ],
+      [
+        "club",
+        12,
+        "tiesuo"
+      ],
+      [
+        "club",
+        13,
+        "tiesuo"
+      ],
+      [
+        "heart",
+        1,
+        "wuxie"
+      ],
+      [
+        "heart",
+        13,
+        "wuxie"
+      ],
+      [
+        "spade",
+        13,
+        "wuxie"
+      ],
+      [
+        "spade",
+        10,
+        "bingliang"
+      ],
+      [
+        "club",
+        4,
+        "bingliang"
+      ],
+      [
+        "diamond",
+        5,
+        "muniu"
+      ]
+    ],
+    "guozhan": [
+      [
+        "heart",
+        9,
+        "yuanjiao"
+      ],
+      [
+        "club",
+        3,
+        "zhibi"
+      ],
+      [
+        "club",
+        4,
+        "zhibi"
+      ],
+      [
+        "diamond",
+        4,
+        "yiyi"
+      ],
+      [
+        "heart",
+        11,
+        "yiyi"
+      ],
+      [
+        "diamond",
+        6,
+        "wuliu"
+      ],
+      [
+        "diamond",
+        12,
+        "sanjian"
+      ],
+      [
+        "heart",
+        3,
+        "jingfanma"
+      ],
+      [
+        "spade",
+        4,
+        "shunshou"
+      ],
+      [
+        "spade",
+        12,
+        "guohe"
+      ],
+      [
+        "spade",
+        11,
+        "wuxie"
+      ],
+      [
+        "spade",
+        3,
+        "huoshaolianying",
+        "fire"
+      ],
+      [
+        "club",
+        11,
+        "huoshaolianying",
+        "fire"
+      ],
+      [
+        "heart",
+        12,
+        "huoshaolianying",
+        "fire"
+      ],
+      [
+        "club",
+        2,
+        "huxinjing"
+      ],
+      [
+        "heart",
+        2,
+        "diaohulishan"
+      ],
+      [
+        "diamond",
+        10,
+        "diaohulishan"
+      ],
+      [
+        "heart",
+        1,
+        "lianjunshengyan"
+      ],
+      [
+        "club",
+        3,
+        "chiling"
+      ],
+      [
+        "spade",
+        12,
+        "lulitongxin"
+      ],
+      [
+        "club",
+        10,
+        "lulitongxin"
+      ],
+      [
+        "club",
+        12,
+        "shuiyanqijunx"
+      ],
+      [
+        "heart",
+        13,
+        "shuiyanqijunx"
+      ],
+      [
+        "spade",
+        1,
+        "xietianzi"
+      ],
+      [
+        "diamond",
+        1,
+        "xietianzi"
+      ],
+      [
+        "diamond",
+        4,
+        "xietianzi"
+      ],
+      [
+        "club",
+        1,
+        "yuxi"
+      ]
+    ],
+    "yingbian": [
+      [
+        "spade",
+        1,
+        "juedou"
+      ],
+      [
+        "spade",
+        1,
+        "taigongyinfu"
+      ],
+      [
+        "spade",
+        1,
+        "guding"
+      ],
+      [
+        "spade",
+        2,
+        "cixiong"
+      ],
+      [
+        "spade",
+        2,
+        "bagua"
+      ],
+      [
+        "spade",
+        2,
+        "tengjia"
+      ],
+      [
+        "spade",
+        2,
+        "suijiyingbian"
+      ],
+      [
+        "spade",
+        3,
+        "jiu"
+      ],
+      [
+        "spade",
+        3,
+        "zhujinqiyuan"
+      ],
+      [
+        "spade",
+        3,
+        "shuiyanqijunx",
+        null,
+        [
+          "yingbian_zhuzhan",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "spade",
+        4,
+        "sha",
+        "thunder"
+      ],
+      [
+        "spade",
+        4,
+        "guohe"
+      ],
+      [
+        "spade",
+        4,
+        "shuiyanqijunx",
+        null,
+        [
+          "yingbian_zhuzhan",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "spade",
+        5,
+        "sha",
+        "thunder"
+      ],
+      [
+        "spade",
+        5,
+        "qinglong"
+      ],
+      [
+        "spade",
+        5,
+        "jueying"
+      ],
+      [
+        "spade",
+        6,
+        "sha",
+        "thunder"
+      ],
+      [
+        "spade",
+        6,
+        "lebu"
+      ],
+      [
+        "spade",
+        6,
+        "qinggang"
+      ],
+      [
+        "spade",
+        7,
+        "sha",
+        "ice"
+      ],
+      [
+        "spade",
+        7,
+        "sha",
+        "ice"
+      ],
+      [
+        "spade",
+        7,
+        "nanman",
+        null,
+        [
+          "yingbian_fujia",
+          "yingbian_remove"
+        ]
+      ],
+      [
+        "spade",
+        8,
+        "sha",
+        "ice"
+      ],
+      [
+        "spade",
+        8,
+        "sha",
+        "ice"
+      ],
+      [
+        "spade",
+        8,
+        "sha",
+        "ice"
+      ],
+      [
+        "spade",
+        9,
+        "sha",
+        null,
+        [
+          "yingbian_canqu",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "spade",
+        9,
+        "sha",
+        null,
+        [
+          "yingbian_canqu",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "spade",
+        9,
+        "jiu"
+      ],
+      [
+        "spade",
+        10,
+        "sha"
+      ],
+      [
+        "spade",
+        10,
+        "sha",
+        null,
+        [
+          "yingbian_zhuzhan",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "spade",
+        10,
+        "bingliang"
+      ],
+      [
+        "spade",
+        11,
+        "wuxie"
+      ],
+      [
+        "spade",
+        11,
+        "shunshou"
+      ],
+      [
+        "spade",
+        11,
+        "tiesuo"
+      ],
+      [
+        "spade",
+        12,
+        "zhujinqiyuan",
+        null,
+        [
+          "yingbian_fujia",
+          "yingbian_hit"
+        ]
+      ],
+      [
+        "spade",
+        12,
+        "tiesuo"
+      ],
+      [
+        "spade",
+        12,
+        "zhangba"
+      ],
+      [
+        "spade",
+        13,
+        "wuxie",
+        null,
+        [
+          "yingbian_kongchao",
+          "yingbian_draw"
+        ]
+      ],
+      [
+        "spade",
+        13,
+        "nanman",
+        null,
+        [
+          "yingbian_fujia",
+          "yingbian_remove"
+        ]
+      ],
+      [
+        "spade",
+        13,
+        "dawan"
+      ],
+      [
+        "heart",
+        1,
+        "taoyuan",
+        null,
+        [
+          "yingbian_fujia",
+          "yingbian_remove"
+        ]
+      ],
+      [
+        "heart",
+        1,
+        "wanjian",
+        null,
+        [
+          "yingbian_fujia",
+          "yingbian_remove"
+        ]
+      ],
+      [
+        "heart",
+        1,
+        "wuxie"
+      ],
+      [
+        "heart",
+        2,
+        "shan",
+        null,
+        [
+          "yingbian_kongchao",
+          "yingbian_draw"
+        ]
+      ],
+      [
+        "heart",
+        2,
+        "shan",
+        null,
+        [
+          "yingbian_kongchao",
+          "yingbian_draw"
+        ]
+      ],
+      [
+        "heart",
+        2,
+        "guohe",
+        null,
+        [
+          "yingbian_zhuzhan",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "heart",
+        3,
+        "wugu"
+      ],
+      [
+        "heart",
+        3,
+        "tao"
+      ],
+      [
+        "heart",
+        3,
+        "chuqibuyi"
+      ],
+      [
+        "heart",
+        4,
+        "sha",
+        "fire"
+      ],
+      [
+        "heart",
+        4,
+        "tao"
+      ],
+      [
+        "heart",
+        4,
+        "wugu"
+      ],
+      [
+        "heart",
+        5,
+        "chitu"
+      ],
+      [
+        "heart",
+        5,
+        "tao"
+      ],
+      [
+        "heart",
+        5,
+        "qilin"
+      ],
+      [
+        "heart",
+        6,
+        "tao"
+      ],
+      [
+        "heart",
+        6,
+        "tao"
+      ],
+      [
+        "heart",
+        6,
+        "lebu"
+      ],
+      [
+        "heart",
+        7,
+        "sha",
+        "fire"
+      ],
+      [
+        "heart",
+        7,
+        "tao"
+      ],
+      [
+        "heart",
+        7,
+        "dongzhuxianji"
+      ],
+      [
+        "heart",
+        8,
+        "tao"
+      ],
+      [
+        "heart",
+        8,
+        "shan"
+      ],
+      [
+        "heart",
+        8,
+        "dongzhuxianji"
+      ],
+      [
+        "heart",
+        9,
+        "tao"
+      ],
+      [
+        "heart",
+        9,
+        "shan"
+      ],
+      [
+        "heart",
+        9,
+        "dongzhuxianji"
+      ],
+      [
+        "heart",
+        10,
+        "sha",
+        "fire",
+        [
+          "yingbian_kongchao",
+          "yingbian_damage"
+        ]
+      ],
+      [
+        "heart",
+        10,
+        "sha"
+      ],
+      [
+        "heart",
+        10,
+        "sha"
+      ],
+      [
+        "heart",
+        11,
+        "sha"
+      ],
+      [
+        "heart",
+        11,
+        "shan"
+      ],
+      [
+        "heart",
+        11,
+        "dongzhuxianji"
+      ],
+      [
+        "heart",
+        12,
+        "tao"
+      ],
+      [
+        "heart",
+        12,
+        "shan"
+      ],
+      [
+        "heart",
+        12,
+        "guohe"
+      ],
+      [
+        "heart",
+        12,
+        "shandian"
+      ],
+      [
+        "heart",
+        13,
+        "wuxie",
+        null,
+        [
+          "yingbian_kongchao",
+          "yingbian_gain"
+        ]
+      ],
+      [
+        "heart",
+        13,
+        "shan"
+      ],
+      [
+        "heart",
+        13,
+        "zhuahuang"
+      ],
+      [
+        "club",
+        1,
+        "juedou"
+      ],
+      [
+        "club",
+        1,
+        "zhuge"
+      ],
+      [
+        "club",
+        1,
+        "huxinjing"
+      ],
+      [
+        "club",
+        2,
+        "sha",
+        null,
+        [
+          "yingbian_kongchao",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "club",
+        2,
+        "heiguangkai"
+      ],
+      [
+        "club",
+        2,
+        "tengjia"
+      ],
+      [
+        "club",
+        2,
+        "renwang"
+      ],
+      [
+        "club",
+        3,
+        "sha",
+        null,
+        [
+          "yingbian_kongchao",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "club",
+        3,
+        "jiu"
+      ],
+      [
+        "club",
+        3,
+        "zhujinqiyuan",
+        null,
+        [
+          "yingbian_zhuzhan",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "club",
+        4,
+        "sha",
+        null,
+        [
+          "yingbian_kongchao",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "club",
+        4,
+        "bingliang"
+      ],
+      [
+        "club",
+        4,
+        "zhujinqiyuan",
+        null,
+        [
+          "yingbian_zhuzhan",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "club",
+        5,
+        "sha"
+      ],
+      [
+        "club",
+        5,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        5,
+        "dilu"
+      ],
+      [
+        "club",
+        6,
+        "sha"
+      ],
+      [
+        "club",
+        6,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        6,
+        "lebu"
+      ],
+      [
+        "club",
+        7,
+        "sha"
+      ],
+      [
+        "club",
+        7,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        7,
+        "nanman",
+        null,
+        [
+          "yingbian_fujia",
+          "yingbian_remove"
+        ]
+      ],
+      [
+        "club",
+        8,
+        "sha"
+      ],
+      [
+        "club",
+        8,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        8,
+        "sha"
+      ],
+      [
+        "club",
+        9,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        9,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        9,
+        "jiu"
+      ],
+      [
+        "club",
+        10,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        10,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        10,
+        "tiesuo"
+      ],
+      [
+        "club",
+        11,
+        "sha"
+      ],
+      [
+        "club",
+        11,
+        "sha",
+        null,
+        [
+          "yingbian_canqu",
+          "yingbian_add"
+        ]
+      ],
+      [
+        "club",
+        11,
+        "tiesuo"
+      ],
+      [
+        "club",
+        12,
+        "wuxie"
+      ],
+      [
+        "club",
+        12,
+        "tianjitu"
+      ],
+      [
+        "club",
+        12,
+        "tiesuo"
+      ],
+      [
+        "club",
+        13,
+        "wuxie",
+        null,
+        [
+          "yingbian_canqu",
+          "yingbian_draw"
+        ]
+      ],
+      [
+        "club",
+        13,
+        "tongque"
+      ],
+      [
+        "club",
+        13,
+        "tiesuo"
+      ],
+      [
+        "diamond",
+        1,
+        "juedou"
+      ],
+      [
+        "diamond",
+        1,
+        "zhuge"
+      ],
+      [
+        "diamond",
+        1,
+        "wuxinghelingshan"
+      ],
+      [
+        "diamond",
+        2,
+        "tao"
+      ],
+      [
+        "diamond",
+        2,
+        "shan",
+        null,
+        [
+          "yingbian_kongchao",
+          "yingbian_draw"
+        ]
+      ],
+      [
+        "diamond",
+        2,
+        "shan",
+        null,
+        [
+          "yingbian_kongchao",
+          "yingbian_draw"
+        ]
+      ],
+      [
+        "diamond",
+        3,
+        "tao"
+      ],
+      [
+        "diamond",
+        3,
+        "shan"
+      ],
+      [
+        "diamond",
+        3,
+        "shunshou"
+      ],
+      [
+        "diamond",
+        4,
+        "sha",
+        "fire",
+        [
+          "yingbian_kongchao",
+          "yingbian_damage"
+        ]
+      ],
+      [
+        "diamond",
+        4,
+        "shan",
+        null,
+        [
+          "yingbian_canqu",
+          "yingbian_gain"
+        ]
+      ],
+      [
+        "diamond",
+        4,
+        "shunshou"
+      ],
+      [
+        "diamond",
+        5,
+        "sha",
+        "fire"
+      ],
+      [
+        "diamond",
+        5,
+        "shan"
+      ],
+      [
+        "diamond",
+        5,
+        "guanshi"
+      ],
+      [
+        "diamond",
+        6,
+        "sha"
+      ],
+      [
+        "diamond",
+        6,
+        "shan"
+      ],
+      [
+        "diamond",
+        6,
+        "shan"
+      ],
+      [
+        "diamond",
+        7,
+        "sha"
+      ],
+      [
+        "diamond",
+        7,
+        "shan"
+      ],
+      [
+        "diamond",
+        7,
+        "shan"
+      ],
+      [
+        "diamond",
+        8,
+        "sha",
+        null,
+        [
+          "yingbian_canqu",
+          "yingbian_hit"
+        ]
+      ],
+      [
+        "diamond",
+        8,
+        "shan"
+      ],
+      [
+        "diamond",
+        8,
+        "shan"
+      ],
+      [
+        "diamond",
+        9,
+        "sha"
+      ],
+      [
+        "diamond",
+        9,
+        "shan"
+      ],
+      [
+        "diamond",
+        9,
+        "jiu"
+      ],
+      [
+        "diamond",
+        10,
+        "sha",
+        "fire"
+      ],
+      [
+        "diamond",
+        10,
+        "shan"
+      ],
+      [
+        "diamond",
+        10,
+        "shan"
+      ],
+      [
+        "diamond",
+        11,
+        "shan"
+      ],
+      [
+        "diamond",
+        11,
+        "shan"
+      ],
+      [
+        "diamond",
+        11,
+        "shan"
+      ],
+      [
+        "diamond",
+        12,
+        "tao"
+      ],
+      [
+        "diamond",
+        12,
+        "chuqibuyi"
+      ],
+      [
+        "diamond",
+        12,
+        "wutiesuolian"
+      ],
+      [
+        "diamond",
+        12,
+        "wuxie"
+      ],
+      [
+        "diamond",
+        13,
+        "sha"
+      ],
+      [
+        "diamond",
+        13,
+        "zixin"
+      ],
+      [
+        "diamond",
+        13,
+        "hualiu"
+      ],
+      [
+        "diamond",
+        5,
+        "muniu"
+      ]
+    ],
+    "yongjian": [
+      [
+        "spade",
+        1,
+        "guaguliaodu"
+      ],
+      [
+        "spade",
+        2,
+        "qixingbaodao",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "spade",
+        3,
+        "shunshou",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "spade",
+        4,
+        "du",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "spade",
+        5,
+        "du",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "spade",
+        6,
+        "sha",
+        "stab"
+      ],
+      [
+        "spade",
+        7,
+        "sha",
+        "stab"
+      ],
+      [
+        "spade",
+        8,
+        "sha",
+        "stab"
+      ],
+      [
+        "spade",
+        9,
+        "du",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "spade",
+        10,
+        "du",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "spade",
+        11,
+        "wuxie"
+      ],
+      [
+        "spade",
+        12,
+        "chenghuodajie"
+      ],
+      [
+        "spade",
+        13,
+        "chenghuodajie"
+      ],
+      [
+        "heart",
+        1,
+        "guaguliaodu"
+      ],
+      [
+        "heart",
+        2,
+        "shan",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "heart",
+        3,
+        "wugu",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "heart",
+        4,
+        "xinge",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "heart",
+        5,
+        "sha",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "heart",
+        6,
+        "chenghuodajie"
+      ],
+      [
+        "heart",
+        7,
+        "tao"
+      ],
+      [
+        "heart",
+        8,
+        "tao"
+      ],
+      [
+        "heart",
+        9,
+        "serafuku",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "heart",
+        10,
+        "sha",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "heart",
+        11,
+        "sha",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "heart",
+        12,
+        "sha",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "heart",
+        13,
+        "zhanxiang",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "club",
+        1,
+        "duanjian",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "club",
+        2,
+        "sha",
+        "stab"
+      ],
+      [
+        "club",
+        3,
+        "yinfengyi",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "club",
+        4,
+        "du"
+      ],
+      [
+        "club",
+        5,
+        "yitianjian"
+      ],
+      [
+        "club",
+        6,
+        "sha",
+        "stab"
+      ],
+      [
+        "club",
+        7,
+        "sha",
+        "stab"
+      ],
+      [
+        "club",
+        8,
+        "sha",
+        "stab"
+      ],
+      [
+        "club",
+        9,
+        "sha",
+        "stab"
+      ],
+      [
+        "club",
+        10,
+        "sha",
+        "stab"
+      ],
+      [
+        "club",
+        11,
+        "wuxie"
+      ],
+      [
+        "club",
+        12,
+        "wuxie"
+      ],
+      [
+        "club",
+        13,
+        "yonglv",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "diamond",
+        1,
+        "juedou",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "diamond",
+        2,
+        "shan"
+      ],
+      [
+        "diamond",
+        3,
+        "kaihua",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "diamond",
+        4,
+        "kaihua",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "diamond",
+        5,
+        "shan"
+      ],
+      [
+        "diamond",
+        6,
+        "shan"
+      ],
+      [
+        "diamond",
+        7,
+        "shan"
+      ],
+      [
+        "diamond",
+        8,
+        "shan"
+      ],
+      [
+        "diamond",
+        9,
+        "tuixinzhifu"
+      ],
+      [
+        "diamond",
+        10,
+        "tuixinzhifu"
+      ],
+      [
+        "diamond",
+        11,
+        "tao",
+        null,
+        [
+          "gifts"
+        ]
+      ],
+      [
+        "diamond",
+        12,
+        "shan"
+      ],
+      [
+        "diamond",
+        13,
+        "sha",
+        "stab"
+      ]
+    ],
+    "sp": [
+      [
+        "spade",
+        1,
+        "caomu"
+      ],
+      [
+        "club",
+        3,
+        "caomu"
+      ],
+      [
+        "heart",
+        12,
+        "shengdong"
+      ],
+      [
+        "club",
+        9,
+        "shengdong"
+      ],
+      [
+        "spade",
+        9,
+        "shengdong"
+      ],
+      [
+        "diamond",
+        4,
+        "zengbin"
+      ],
+      [
+        "heart",
+        6,
+        "zengbin"
+      ],
+      [
+        "spade",
+        7,
+        "zengbin"
+      ],
+      [
+        "diamond",
+        12,
+        "yinyueqiang"
+      ],
+      [
+        "spade",
+        11,
+        "jinchan"
+      ],
+      [
+        "club",
+        12,
+        "jinchan"
+      ],
+      [
+        "club",
+        13,
+        "jinchan"
+      ],
+      [
+        "club",
+        12,
+        "qijia"
+      ],
+      [
+        "club",
+        13,
+        "qijia"
+      ],
+      [
+        "spade",
+        1,
+        "fulei"
+      ],
+      [
+        "spade",
+        6,
+        "qibaodao"
+      ],
+      [
+        "spade",
+        5,
+        "zhungangshuo"
+      ],
+      [
+        "spade",
+        2,
+        "lanyinjia"
+      ],
+      [
+        "club",
+        2,
+        "lanyinjia"
+      ]
+    ],
+    "zhulu": [
+      [
+        "diamond",
+        3,
+        "jiejia"
+      ],
+      [
+        "diamond",
+        4,
+        "shan"
+      ],
+      [
+        "diamond",
+        5,
+        "yajiaoqiang"
+      ],
+      [
+        "diamond",
+        6,
+        "sha"
+      ],
+      [
+        "diamond",
+        8,
+        "shan"
+      ],
+      [
+        "diamond",
+        9,
+        "kaihua"
+      ],
+      [
+        "diamond",
+        10,
+        "yinfengjia"
+      ],
+      [
+        "diamond",
+        11,
+        "sha"
+      ],
+      [
+        "club",
+        3,
+        "jiejia"
+      ],
+      [
+        "club",
+        4,
+        "sha",
+        "thunder"
+      ],
+      [
+        "club",
+        5,
+        "zheji"
+      ],
+      [
+        "club",
+        6,
+        "jiu"
+      ],
+      [
+        "club",
+        8,
+        "jiu"
+      ],
+      [
+        "club",
+        9,
+        "zhulu_card"
+      ],
+      [
+        "club",
+        10,
+        "jinhe"
+      ],
+      [
+        "club",
+        11,
+        "sha"
+      ],
+      [
+        "heart",
+        3,
+        "sha",
+        "fire"
+      ],
+      [
+        "heart",
+        4,
+        "shan"
+      ],
+      [
+        "heart",
+        5,
+        "numa"
+      ],
+      [
+        "heart",
+        6,
+        "tao"
+      ],
+      [
+        "heart",
+        8,
+        "shan"
+      ],
+      [
+        "heart",
+        9,
+        "kaihua"
+      ],
+      [
+        "heart",
+        10,
+        "nvzhuang"
+      ],
+      [
+        "heart",
+        11,
+        "kaihua"
+      ],
+      [
+        "spade",
+        3,
+        "caochuan"
+      ],
+      [
+        "spade",
+        4,
+        "sha",
+        "thunder"
+      ],
+      [
+        "spade",
+        5,
+        "wufengjian"
+      ],
+      [
+        "spade",
+        6,
+        "caochuan"
+      ],
+      [
+        "spade",
+        8,
+        "sha"
+      ],
+      [
+        "spade",
+        9,
+        "sha"
+      ],
+      [
+        "spade",
+        10,
+        "yexingyi"
+      ],
+      [
+        "spade",
+        11,
+        "sha"
+      ]
+    ],
+    "huodong": [
+      [
+        "heart",
+        9,
+        "mb_qingnangshu"
+      ],
+      [
+        "spade",
+        13,
+        "mb_chuanguoyuxi"
+      ],
+      [
+        null,
+        null,
+        "haoyun"
+      ],
+      [
+        null,
+        null,
+        "haoyun"
+      ],
+      [
+        null,
+        null,
+        "jiaoyou"
+      ],
+      [
+        null,
+        null,
+        "jiaoyou"
+      ],
+      [
+        null,
+        null,
+        "qingsuan"
+      ],
+      [
+        null,
+        null,
+        "qingsuan"
+      ],
+      [
+        null,
+        null,
+        "zhisi"
+      ],
+      [
+        null,
+        null,
+        "zhisi"
+      ],
+      [
+        null,
+        null,
+        "wangmei"
+      ],
+      [
+        null,
+        null,
+        "wangmei"
+      ],
+      [
+        null,
+        null,
+        "jianhao"
+      ],
+      [
+        null,
+        null,
+        "jianhao"
+      ],
+      [
+        null,
+        null,
+        "tianlei"
+      ],
+      [
+        null,
+        null,
+        "tianlei"
+      ],
+      [
+        null,
+        null,
+        "chadaox"
+      ],
+      [
+        null,
+        null,
+        "chadaox"
+      ],
+      [
+        null,
+        null,
+        "yifu"
+      ],
+      [
+        null,
+        null,
+        "yifu"
+      ],
+      [
+        null,
+        null,
+        "liehuo"
+      ],
+      [
+        null,
+        null,
+        "liehuo"
+      ],
+      [
+        null,
+        null,
+        "shenbing"
+      ],
+      [
+        null,
+        null,
+        "shenbing"
+      ],
+      [
+        null,
+        null,
+        "jinnao"
+      ],
+      [
+        null,
+        null,
+        "jinnao"
+      ],
+      [
+        null,
+        null,
+        "yinglang"
+      ],
+      [
+        null,
+        null,
+        "yinglang"
+      ],
+      [
+        null,
+        null,
+        "youfu"
+      ],
+      [
+        null,
+        null,
+        "youfu"
+      ],
+      [
+        null,
+        null,
+        "fugui"
+      ],
+      [
+        null,
+        null,
+        "fugui"
+      ],
+      [
+        null,
+        null,
+        "tangying"
+      ],
+      [
+        null,
+        null,
+        "tangying"
+      ],
+      [
+        null,
+        null,
+        "guilai"
+      ],
+      [
+        null,
+        null,
+        "dashi"
+      ],
+      [
+        null,
+        null,
+        "dashi"
+      ],
+      [
+        "spade",
+        13,
+        "khquanjiux"
+      ],
+      [
+        "diamond",
+        13,
+        "khquanjiux"
+      ],
+      [
+        "heart",
+        13,
+        "khquanjiux"
+      ],
+      [
+        "club",
+        13,
+        "khquanjiux"
+      ],
+      [
+        "spade",
+        13,
+        "nisiwohuo"
+      ],
+      [
+        "diamond",
+        13,
+        "nisiwohuo"
+      ],
+      [
+        "heart",
+        13,
+        "nisiwohuo"
+      ],
+      [
+        "club",
+        13,
+        "nisiwohuo"
+      ],
+      [
+        "heart",
+        13,
+        "wutian"
+      ],
+      [
+        "club",
+        13,
+        "wutian"
+      ],
+      [
+        "diamond",
+        11,
+        "qixin"
+      ],
+      [
+        "heart",
+        11,
+        "qixin"
+      ],
+      [
+        "spade",
+        10,
+        "chadao"
+      ],
+      [
+        "diamond",
+        10,
+        "chadao"
+      ],
+      [
+        "heart",
+        10,
+        "chadao"
+      ],
+      [
+        "club",
+        10,
+        "chadao"
+      ],
+      [
+        "diamond",
+        12,
+        "khquanjiu"
+      ],
+      [
+        "heart",
+        12,
+        "khquanjiu"
+      ],
+      [
+        "heart",
+        5,
+        "hongyun"
+      ],
+      [
+        "spade",
+        5,
+        "hongyun"
+      ],
+      [
+        "club",
+        5,
+        "hongyun"
+      ],
+      [
+        "heart",
+        7,
+        "luojing"
+      ],
+      [
+        "club",
+        7,
+        "luojing"
+      ],
+      [
+        "diamond",
+        4,
+        "shengsi"
+      ],
+      [
+        "heart",
+        4,
+        "shengsi"
+      ],
+      [
+        "diamond",
+        8,
+        "leigong"
+      ],
+      [
+        "heart",
+        8,
+        "leigong"
+      ],
+      [
+        "spade",
+        8,
+        "leigong"
+      ],
+      [
+        "spade",
+        6,
+        "younan"
+      ],
+      [
+        "diamond",
+        6,
+        "younan"
+      ],
+      [
+        "heart",
+        6,
+        "younan"
+      ],
+      [
+        "club",
+        6,
+        "younan"
+      ]
+    ],
+    "xianxia": [
+      [
+        "diamond",
+        6,
+        "suibozhuliu"
+      ],
+      [
+        "diamond",
+        9,
+        "suibozhuliu"
+      ],
+      [
+        "spade",
+        2,
+        "ty_feilongduofeng"
+      ],
+      [
+        "heart",
+        3,
+        "lx_huoshaolianying"
+      ],
+      [
+        "spade",
+        5,
+        "shangfangbaojian"
+      ],
+      [
+        "spade",
+        5,
+        "qingmingjian"
+      ],
+      [
+        "club",
+        5,
+        "mengchong"
+      ],
+      [
+        "heart",
+        5,
+        "yushijiesui"
+      ],
+      [
+        "spade",
+        1,
+        "liuyedao"
+      ],
+      [
+        "spade",
+        2,
+        "zj_yexingyi"
+      ],
+      [
+        "heart",
+        1,
+        "zj_lianjunshengyan"
+      ]
+    ]
+  },
+  "definitions": {
+    "damage": {
+      "id": "damage",
+      "name": "damage",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "draw": {
+      "id": "draw",
+      "name": "draw",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "losehp": {
+      "id": "losehp",
+      "name": "losehp",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "recover": {
+      "id": "recover",
+      "name": "recover",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "firedamage": {
+      "id": "firedamage",
+      "name": "firedamage",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "thunderdamage": {
+      "id": "thunderdamage",
+      "name": "thunderdamage",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "icedamage": {
+      "id": "icedamage",
+      "name": "icedamage",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "respondShan": {
+      "id": "respondShan",
+      "name": "respondShan",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "sha": {
+      "id": "sha",
+      "name": "杀",
+      "description": "出牌阶段，对你攻击范围内的一名角色使用。其须使用一张【闪】，否则你对其造成1点伤害。",
+      "type": "basic",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "shacopy": {
+      "id": "shacopy",
+      "name": "shacopy",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "shan": {
+      "id": "shan",
+      "name": "闪",
+      "description": "抵消一张【杀】。",
+      "type": "basic",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "tao": {
+      "id": "tao",
+      "name": "桃",
+      "description": "①出牌阶段，对自己使用，目标角色回复1点体力。②当有角色处于濒死状态时，对该角色使用。目标角色回复1点体力。",
+      "type": "basic",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "bagua": {
+      "id": "bagua",
+      "name": "八卦阵",
+      "description": "当你需要使用或打出一张【闪】时，你可以进行判定。若结果为红色，则你视为使用或打出一张【闪】。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "standard"
+    },
+    "jueying": {
+      "id": "jueying",
+      "name": "绝影",
+      "description": "锁定技，其他角色计算与你的距离+1。",
+      "type": "equip",
+      "subtype": "equip3",
+      "pack": "standard"
+    },
+    "dilu": {
+      "id": "dilu",
+      "name": "的卢",
+      "description": "锁定技，其他角色计算与你的距离+1。",
+      "type": "equip",
+      "subtype": "equip3",
+      "pack": "standard"
+    },
+    "zhuahuang": {
+      "id": "zhuahuang",
+      "name": "爪黄飞电",
+      "description": "锁定技，其他角色计算与你的距离+1。",
+      "type": "equip",
+      "subtype": "equip3",
+      "pack": "standard"
+    },
+    "chitu": {
+      "id": "chitu",
+      "name": "赤兔",
+      "description": "锁定技，你计算与其他角色的距离-1。",
+      "type": "equip",
+      "subtype": "equip4",
+      "pack": "standard"
+    },
+    "dawan": {
+      "id": "dawan",
+      "name": "大宛",
+      "description": "锁定技，你计算与其他角色的距离-1。",
+      "type": "equip",
+      "subtype": "equip4",
+      "pack": "standard"
+    },
+    "zixin": {
+      "id": "zixin",
+      "name": "紫骍",
+      "description": "锁定技，你计算与其他角色的距离-1。",
+      "type": "equip",
+      "subtype": "equip4",
+      "pack": "standard"
+    },
+    "zhuge": {
+      "id": "zhuge",
+      "name": "诸葛连弩",
+      "description": "锁定技，你于出牌阶段内使用【杀】无次数限制。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "standard"
+    },
+    "cixiong": {
+      "id": "cixiong",
+      "name": "雌雄双股剑",
+      "description": "当你使用【杀】指定一名异性的目标角色后，你可以令其选择一项：1.弃置一张手牌；2.令你摸一张牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "standard"
+    },
+    "qinggang": {
+      "id": "qinggang",
+      "name": "青釭剑",
+      "description": "锁定技，当你使用【杀】指定一名目标角色后，你令其防具技能无效直到此【杀】被抵消或造成伤害。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "standard"
+    },
+    "qinglong": {
+      "id": "qinglong",
+      "name": "青龙偃月刀",
+      "description": "当你使用的【杀】被目标角色使用的【闪】抵消时，你可以对其使用一张【杀】（无距离限制）。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "standard"
+    },
+    "zhangba": {
+      "id": "zhangba",
+      "name": "丈八蛇矛",
+      "description": "你可以将两张手牌当【杀】使用或打出。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "standard"
+    },
+    "guanshi": {
+      "id": "guanshi",
+      "name": "贯石斧",
+      "description": "当你使用的【杀】被目标角色使用的【闪】抵消时，你可以弃置两张牌，令此【杀】依然对其造成伤害。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "standard"
+    },
+    "fangtian": {
+      "id": "fangtian",
+      "name": "方天画戟",
+      "description": "你使用的【杀】若是你最后的手牌，你可以额外选择至多两个目标。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "standard"
+    },
+    "qilin": {
+      "id": "qilin",
+      "name": "麒麟弓",
+      "description": "当你使用【杀】对目标角色造成伤害时，你可以弃置其装备区里的一张坐骑牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "standard"
+    },
+    "wugu": {
+      "id": "wugu",
+      "name": "五谷丰登",
+      "description": "出牌阶段，对所有角色使用。（选择目标后）你从牌堆顶亮出等同于目标数量的牌，每名目标角色获得这些牌中（剩余的）的任意一张。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "taoyuan": {
+      "id": "taoyuan",
+      "name": "桃园结义",
+      "description": "出牌阶段，对所有角色使用。每名目标角色回复1点体力。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "nanman": {
+      "id": "nanman",
+      "name": "南蛮入侵",
+      "description": "出牌阶段，对所有其他角色使用。每名目标角色需打出一张【杀】，否则受到1点伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "wanjian": {
+      "id": "wanjian",
+      "name": "万箭齐发",
+      "description": "出牌阶段，对所有其他角色使用。每名目标角色需打出一张【闪】，否则受到1点伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "wuzhong": {
+      "id": "wuzhong",
+      "name": "无中生有",
+      "description": "出牌阶段，对你使用。你摸两张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "juedou": {
+      "id": "juedou",
+      "name": "决斗",
+      "description": "出牌阶段，对一名其他角色使用。由其开始，其与你轮流打出一张【杀】，直到其中一方未打出【杀】为止。未打出【杀】的一方受到另一方对其造成的1点伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "shunshou": {
+      "id": "shunshou",
+      "name": "顺手牵羊",
+      "description": "出牌阶段，对距离为1且区域里有牌的一名其他角色使用。你获得其区域里的一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "shunshou_copy": {
+      "id": "shunshou_copy",
+      "name": "shunshou_copy",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "shunshou_copy2": {
+      "id": "shunshou_copy2",
+      "name": "shunshou_copy2",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "guohe": {
+      "id": "guohe",
+      "name": "过河拆桥",
+      "description": "出牌阶段，对区域里有牌的一名其他角色使用。你弃置其区域里的一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "guohe_copy": {
+      "id": "guohe_copy",
+      "name": "guohe_copy",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "guohe_copy2": {
+      "id": "guohe_copy2",
+      "name": "guohe_copy2",
+      "description": "",
+      "type": "未知",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "jiedao": {
+      "id": "jiedao",
+      "name": "借刀杀人",
+      "description": "出牌阶段，对装备区里有武器牌且有使用【杀】的目标的一名其他角色使用。令其对你指定的一名角色使用一张【杀】，否则将其装备区里的武器牌交给你。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "wuxie": {
+      "id": "wuxie",
+      "name": "无懈可击",
+      "description": "一张锦囊牌生效前，对此牌使用。抵消此牌对一名角色产生的效果，或抵消另一张【无懈可击】产生的效果。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "lebu": {
+      "id": "lebu",
+      "name": "乐不思蜀",
+      "description": "出牌阶段，对一名其他角色使用。若判定结果不为红桃，跳过其出牌阶段。",
+      "type": "delay",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "shandian": {
+      "id": "shandian",
+      "name": "闪电",
+      "description": "出牌阶段，对自己使用。若判定结果为黑桃2~9，则目标角色受到3点雷电伤害。若判定不为黑桃2~9，将之移动到下家的判定区里。",
+      "type": "delay",
+      "subtype": "",
+      "pack": "standard"
+    },
+    "hanbing": {
+      "id": "hanbing",
+      "name": "寒冰剑",
+      "description": "当你因执行【杀】的效果而造成伤害时，若目标角色有能被弃置的牌，则你可以防止此伤害，然后依次弃置目标角色的两张牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "standard"
+    },
+    "renwang": {
+      "id": "renwang",
+      "name": "仁王盾",
+      "description": "锁定技，黑色【杀】对你无效。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "standard"
+    },
+    "muniu": {
+      "id": "muniu",
+      "name": "木牛流马",
+      "description": "①出牌阶段限一次，你可以将一张手牌扣置于你装备区里的【木牛流马】下，然后你可以将【木牛流马】移动到一名其他角色的装备区里。②你可以将【木牛流马】下的牌如手牌般使用或打出。③当你失去装备区的【木牛流马】后，你刷新〖木牛流马①〗的使用次数限制。若此牌不是因置入其他角色的装备区而失去的，则你将【木牛流马】下的所有牌置入弃牌堆。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "extra"
+    },
+    "jiu": {
+      "id": "jiu",
+      "name": "酒",
+      "description": "①每回合限一次。出牌阶段，对你自己使用。本回合目标角色使用的下一张【杀】的伤害值基数+1。②当你处于濒死状态时，对你自己使用。目标角色回复1点体力。",
+      "type": "basic",
+      "subtype": "",
+      "pack": "extra"
+    },
+    "huogong": {
+      "id": "huogong",
+      "name": "火攻",
+      "description": "出牌阶段，对一名有手牌的角色使用。目标角色展示一张手牌A，然后你可以弃置一张与A花色相同的手牌，对目标造成1点火属性伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "extra"
+    },
+    "tiesuo": {
+      "id": "tiesuo",
+      "name": "铁索连环",
+      "description": "此牌可被重铸。出牌阶段，对至多两名角色使用。目标角色横置。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "extra"
+    },
+    "bingliang": {
+      "id": "bingliang",
+      "name": "兵粮寸断",
+      "description": "出牌阶段，对一名距离为1的其他角色使用。目标角色于其判定阶段进行判定：若判定结果不为梅花，则其跳过下一个摸牌阶段。",
+      "type": "delay",
+      "subtype": "",
+      "pack": "extra"
+    },
+    "hualiu": {
+      "id": "hualiu",
+      "name": "骅骝",
+      "description": "锁定技，其他角色计算与你的距离+1。",
+      "type": "equip",
+      "subtype": "equip3",
+      "pack": "extra"
+    },
+    "zhuque": {
+      "id": "zhuque",
+      "name": "朱雀羽扇",
+      "description": "当你声明使用普【杀】后，你可以为此【杀】赋予火属性。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "extra"
+    },
+    "guding": {
+      "id": "guding",
+      "name": "古锭刀",
+      "description": "锁定技，当你因执行【杀】的效果而对目标角色造成伤害时，若其没有手牌，则此伤害+1。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "extra"
+    },
+    "tengjia": {
+      "id": "tengjia",
+      "name": "藤甲",
+      "description": "锁定技。①【南蛮入侵】、【万箭齐发】和普【杀】对你无效。②当你受到火属性伤害时，此伤害+1。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "extra"
+    },
+    "baiyin": {
+      "id": "baiyin",
+      "name": "白银狮子",
+      "description": "锁定技。①当你受到伤害时，若此伤害大于1，则你将伤害值扣减至1点。②当你失去装备区内的【白银狮子】后，你回复1点体力。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "extra"
+    },
+    "zhaoshu": {
+      "id": "zhaoshu",
+      "name": "诏书",
+      "description": "<li>出牌阶段，对你自己使用。你将此牌置于目标的武将牌上。<br><li>与你势力相同的角色的出牌阶段限一次，其可以将一张手牌（小势力角色改为至多两张）置于【诏书】上，称为“应”。<br><li>出牌阶段限一次，若你的“应”中包含至少四种花色，则你可以发动“锦囊召唤”：将所有“应”置入弃牌堆，然后随机获得一张未加入游戏的势力锦囊牌。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "guozhan"
+    },
+    "gz_haolingtianxia": {
+      "id": "gz_haolingtianxia",
+      "name": "号令天下",
+      "description": "出牌阶段，对一名体力值不为全场最少的角色使用。所有其他角色依次可以选择一项：①弃置一张牌（魏势力角色无需弃牌），视为对目标角色使用一张【杀】；②弃置目标角色的一张牌（魏势力角色改为获得其一张牌）。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "gz_kefuzhongyuan": {
+      "id": "gz_kefuzhongyuan",
+      "name": "克复中原",
+      "description": "出牌阶段，对任意名角色使用。目标角色选择一项：①视为使用一张【杀】（蜀势力角色以此法使用【杀】的伤害值基数+1）；②摸一张牌（蜀势力角色改为摸两张牌）。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "gz_guguoanbang": {
+      "id": "gz_guguoanbang",
+      "name": "固国安邦",
+      "description": "出牌阶段，对你自己使用。你摸八张牌，然后弃置至少六张手牌。然后若你的势力为吴，则你可以将你以此法弃置的牌交给其他吴势力角色（每名角色至多获得两张牌）。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "gz_wenheluanwu": {
+      "id": "gz_wenheluanwu",
+      "name": "文和乱武",
+      "description": "出牌阶段，对所有角色使用。目标角色展示所有手牌，然后你选择一项：①令其弃置两张类型不同的手牌；②你弃置其一张手牌。然后若其为群势力角色且其没有手牌，则其将手牌摸至当前体力值（至多为5）。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "liulongcanjia": {
+      "id": "liulongcanjia",
+      "name": "六龙骖驾",
+      "description": "锁定技。此牌占用1个进攻坐骑和1个防御坐骑槽位，且不可被替换。你计算与其他角色的距离-1，其他角色计算与你的距离+1。",
+      "type": "equip",
+      "subtype": "equip6",
+      "pack": "guozhan"
+    },
+    "minguangkai": {
+      "id": "minguangkai",
+      "name": "明光铠",
+      "description": "锁定技。①当你成为【火烧连营】、【火攻】或火【杀】的目标时，取消之。②当你即将横置前，若你是小势力角色，取消之。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "guozhan"
+    },
+    "dinglanyemingzhu": {
+      "id": "dinglanyemingzhu",
+      "name": "定澜夜明珠",
+      "description": "锁定技。若你拥有〖制衡〗，则你取消〖制衡〗的弃置牌数限制，否则你视为拥有〖制衡〗。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "guozhan"
+    },
+    "feilongduofeng": {
+      "id": "feilongduofeng",
+      "name": "飞龙夺凤",
+      "description": "①当你使用【杀】指定目标后，你可令目标角色弃置一张牌。②当你因使用【杀】而令其他角色进入濒死状态时，你可以获得其一张手牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "guozhan"
+    },
+    "taipingyaoshu": {
+      "id": "taipingyaoshu",
+      "name": "太平要术",
+      "description": "锁定技。①当你即将受到属性伤害时，取消之。②你的手牌上限+X（X为场上势力数-1）。③当你失去装备区里的【太平要术】时，你摸两张牌，然后若你的体力值大于1，你失去1点体力。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "guozhan"
+    },
+    "jilinqianyi": {
+      "id": "jilinqianyi",
+      "name": "戢鳞潜翼",
+      "description": "锁定技。①此武器的攻击范围为你已损失的体力值。②你使用【杀】的结算过程中，你攻击范围内的非目标角色不能使用牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "guozhan"
+    },
+    "yuxi": {
+      "id": "yuxi",
+      "name": "玉玺",
+      "description": "锁定技。若你有明置的武将牌，则：①你的势力视为唯一的大势力。②摸牌阶段开始时，你令额定摸牌数+1。③出牌阶段开始时，你视为使用【知己知彼】。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "guozhan"
+    },
+    "xietianzi": {
+      "id": "xietianzi",
+      "name": "挟令",
+      "description": "出牌阶段，对自己使用。你结束出牌阶段。本回合的弃牌阶段结束时，你可以弃置一张手牌，获得一个额外的回合。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "shuiyanqijunx": {
+      "id": "shuiyanqijunx",
+      "name": "水淹七军",
+      "description": "出牌阶段，对一名其他角色使用。目标角色选择一项：⒈弃置装备区里的所有牌（至少一张）。⒉受到你造成的1点雷电伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "lulitongxin": {
+      "id": "lulitongxin",
+      "name": "勠力同心",
+      "description": "出牌阶段，对所有大势力角色或所有小势力角色使用。若目标角色：未横置，则其横置；已横置，则其摸一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "lianjunshengyan": {
+      "id": "lianjunshengyan",
+      "name": "联军盛宴",
+      "description": "出牌阶段，对你和你选择的除你的势力外的一个势力的所有角色使用。若目标角色：为你，你选择摸Y张牌并回复X-Y点体力（X为该势力的角色数，Y∈[0,X]）；不为你，其摸一张牌，然后重置。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "chiling": {
+      "id": "chiling",
+      "name": "敕令",
+      "description": "①出牌阶段，对所有没有势力的角色使用。目标角色选择一项：1、明置一张武将牌，然后摸一张牌；2、弃置一张装备牌；3、失去1点体力。②当【敕令】因判定或弃置而置入弃牌堆时，系统将之移出游戏并将【诏书】置于牌堆底，然后系统于当前回合结束后视为对所有没有势力的角色使用【敕令】。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "diaohulishan": {
+      "id": "diaohulishan",
+      "name": "调虎离山",
+      "description": "出牌阶段，对至多两名其他角色使用。目标角色于此回合视为移出游戏。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "huxinjing": {
+      "id": "huxinjing",
+      "name": "护心镜",
+      "description": "此牌可对其他角色使用。当你受到伤害时，若伤害值大于1或大于等于你的体力值，则你可以将所有【护心镜】置入弃牌堆，然后防止此伤害。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "guozhan"
+    },
+    "huoshaolianying": {
+      "id": "huoshaolianying",
+      "name": "火烧连营",
+      "description": "出牌阶段，对距离最小的一名横置角色使用（若无横置角色，则改为对距离最小的所有角色使用），你对目标造成1点火属性伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "yuanjiao": {
+      "id": "yuanjiao",
+      "name": "远交近攻",
+      "description": "出牌阶段，对一名与你势力不同的其他角色使用。其摸一张牌，然后你摸三张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "zhibi": {
+      "id": "zhibi",
+      "name": "知己知彼",
+      "description": "出牌阶段，对一名有手牌或有暗置武将牌的其他角色使用。你选择一项：⒈观看其手牌。⒉观看其的一张暗置武将牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "yiyi": {
+      "id": "yiyi",
+      "name": "以逸待劳",
+      "description": "出牌阶段，对至多三名角色使用。目标角色摸两张牌，然后弃置两张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "guozhan"
+    },
+    "wuliu": {
+      "id": "wuliu",
+      "name": "吴六剑",
+      "description": "锁定技。与你势力相同的所有其他角色的攻击范围+1。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "guozhan"
+    },
+    "sanjian": {
+      "id": "sanjian",
+      "name": "三尖两刃刀",
+      "description": "当你因执行【杀】而对A造成伤害后，你可以弃置一张牌并选择一名其他角色B（A至B的距离需为1）。你对B造成1点伤害。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "guozhan"
+    },
+    "jingfanma": {
+      "id": "jingfanma",
+      "name": "惊帆",
+      "description": "锁定技，你计算与其他角色的距离-1。",
+      "type": "equip",
+      "subtype": "equip4",
+      "pack": "guozhan"
+    },
+    "suijiyingbian": {
+      "id": "suijiyingbian",
+      "name": "随机应变",
+      "description": "此牌的牌名视为你本回合内使用或打出的上一张基本牌或普通锦囊牌的牌名。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "yingbian"
+    },
+    "zhujinqiyuan": {
+      "id": "zhujinqiyuan",
+      "name": "逐近弃远",
+      "description": "出牌阶段，对一名有牌的其他角色使用。若你至其距离的大于1，你弃置其区域内的一张牌。若你至其的距离等于1，你获得其区域内的一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "yingbian"
+    },
+    "dongzhuxianji": {
+      "id": "dongzhuxianji",
+      "name": "洞烛先机",
+      "description": "出牌阶段，对包含你在内的一名角色使用。目标角色卜算2，然后摸两张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "yingbian"
+    },
+    "chuqibuyi": {
+      "id": "chuqibuyi",
+      "name": "出其不意",
+      "description": "出牌阶段，对一名有手牌的其他角色使用。你展示其一张手牌，若此牌与【出其不意】的花色不同，则你对其造成1点伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "yingbian"
+    },
+    "wuxinghelingshan": {
+      "id": "wuxinghelingshan",
+      "name": "五行鹤翎扇",
+      "description": "当你声明使用不为神属性的属性【杀】后，你可将此【杀】的属性改为不为神属性的其他属性。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "yingbian"
+    },
+    "wutiesuolian": {
+      "id": "wutiesuolian",
+      "name": "乌铁锁链",
+      "description": "锁定技，当你使用【杀】指定目标后，若其未横置，则其横置。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "yingbian"
+    },
+    "heiguangkai": {
+      "id": "heiguangkai",
+      "name": "黑光铠",
+      "description": "锁定技，当你成为【杀】或伤害类锦囊牌或黑色普通锦囊牌的目标后，若此牌的目标数大于1，则你令此牌对你无效。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "yingbian"
+    },
+    "tongque": {
+      "id": "tongque",
+      "name": "铜雀",
+      "description": "锁定技，你于一回合内使用的第一张带有“应变”效果的牌无视条件直接生效。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "yingbian"
+    },
+    "tianjitu": {
+      "id": "tianjitu",
+      "name": "天机图",
+      "description": "锁定技，当此牌进入你的装备区时，你弃置一张不为此【天机图】的牌。当此牌离开你的装备区时，你将手牌摸至五张。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "yingbian"
+    },
+    "taigongyinfu": {
+      "id": "taigongyinfu",
+      "name": "太公阴符",
+      "description": "出牌阶段开始时，你可以横置或重置一名角色。出牌阶段结束时，你可以重铸一张手牌。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "yingbian"
+    },
+    "baipidao": {
+      "id": "baipidao",
+      "name": "百辟刀",
+      "description": "当你使用【杀】对目标角色造成伤害后，可以获得其一张手牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "yingbian"
+    },
+    "du": {
+      "id": "du",
+      "name": "毒",
+      "description": "①当此牌正面向上离开你的手牌区，或作为你的拼点牌而亮出时，你失去1点体力。②当你因摸牌或分发起始手牌而获得【毒】后，你可展示之并交给其他角色（不触发〖毒①〗）。",
+      "type": "basic",
+      "subtype": "",
+      "pack": "yongjian"
+    },
+    "guaguliaodu": {
+      "id": "guaguliaodu",
+      "name": "刮骨疗毒",
+      "description": "出牌阶段，对一名已受伤的角色使用。目标角色回复1点体力，然后其可以弃置一张【毒】（不触发〖毒①〗失去体力的效果）。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "yongjian"
+    },
+    "chenghuodajie": {
+      "id": "chenghuodajie",
+      "name": "趁火打劫",
+      "description": "出牌阶段，对一名有手牌的其他角色使用。你展示其一张手牌，然后令其选择一项：①将此牌交给你。②你对其造成1点伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "yongjian"
+    },
+    "tuixinzhifu": {
+      "id": "tuixinzhifu",
+      "name": "推心置腹",
+      "description": "出牌阶段，对一名距离为1的其他角色使用。你获得其区域内的至多两张牌，然后交给其等量的牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "yongjian"
+    },
+    "yitianjian": {
+      "id": "yitianjian",
+      "name": "倚天剑",
+      "description": "当你因执行【杀】的效果而造成伤害后，若你已受伤，则你可弃置一张手牌，然后回复1点体力。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "yongjian"
+    },
+    "qixingbaodao": {
+      "id": "qixingbaodao",
+      "name": "七星宝刀",
+      "description": "锁定技。当此牌进入你的装备区后，你弃置装备区和判定区内的所有其他牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "yongjian"
+    },
+    "duanjian": {
+      "id": "duanjian",
+      "name": "断剑",
+      "description": "这是一把坏掉的武器……",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "yongjian"
+    },
+    "serafuku": {
+      "id": "serafuku",
+      "name": "水手服",
+      "description": "锁定技。当你成为【杀】的目标后，若你的性别包含男性，则你进行判定：若结果为黑色，则此牌对你的伤害值基数+1。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "yongjian"
+    },
+    "yinfengyi": {
+      "id": "yinfengyi",
+      "name": "引蜂衣",
+      "description": "锁定技。当你受到渠道为锦囊牌的伤害时，此伤害+1。当你因〖毒①〗而失去体力时，失去体力的量值+1。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "yongjian"
+    },
+    "yonglv": {
+      "id": "yonglv",
+      "name": "庸驴",
+      "description": "锁定技。①你至其他角色的距离-1。②其他角色至你的距离视为1。",
+      "type": "equip",
+      "subtype": "equip4",
+      "pack": "yongjian"
+    },
+    "zhanxiang": {
+      "id": "zhanxiang",
+      "name": "战象",
+      "description": "锁定技。①其他角色至你的距离+1。②其他角色对你赠予的牌视为赠予失败。",
+      "type": "equip",
+      "subtype": "equip3",
+      "pack": "yongjian"
+    },
+    "xinge": {
+      "id": "xinge",
+      "name": "信鸽",
+      "description": "出牌阶段限一次。你可以将一张手牌交给一名其他角色。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "yongjian"
+    },
+    "jinchan": {
+      "id": "jinchan",
+      "name": "金蝉脱壳",
+      "description": "其他角色使用的基本牌或普通牌对你生效时，若你的所有手牌均为【金蝉脱壳】，则你可以使用此牌。你令此牌对你无效并摸两张牌。当你因弃置而失去【金蝉脱壳】时，你摸一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "sp"
+    },
+    "qijia": {
+      "id": "qijia",
+      "name": "弃甲曳兵",
+      "description": "出牌阶段，对一名装备区里有牌的其他角色使用。该角色选择一项：1.弃置手牌区和装备区里所有的武器和-1坐骑；2.弃置手牌区和装备区里所有的防具和+1坐骑。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "sp"
+    },
+    "fulei": {
+      "id": "fulei",
+      "name": "浮雷",
+      "description": "出牌阶段，对你使用。你将【浮雷】置入判定区。若判定结果为♠，则目标角色受到X点雷电伤害（X为此牌判定结果为♠的次数）。判定完成后，将此牌移动到下家的判定区里。",
+      "type": "delay",
+      "subtype": "",
+      "pack": "sp"
+    },
+    "qibaodao": {
+      "id": "qibaodao",
+      "name": "七宝刀",
+      "description": "攻击范围2；锁定技，你使用【杀】无视目标防具，若目标角色未损失体力值，此【杀】伤害+1。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "sp"
+    },
+    "zhungangshuo": {
+      "id": "zhungangshuo",
+      "name": "衠钢槊",
+      "description": "当你使用【杀】指定一名角色为目标后，你可令该角色弃置你的一张手牌，然后你弃置其一张手牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "sp"
+    },
+    "lanyinjia": {
+      "id": "lanyinjia",
+      "name": "烂银甲",
+      "description": "你可以将一张手牌当做【闪】使用或打出。锁定技，【烂银甲】不会无效化；当你受到【杀】造成的伤害时，弃置【烂银甲】。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "sp"
+    },
+    "yinyueqiang": {
+      "id": "yinyueqiang",
+      "name": "银月枪",
+      "description": "你的回合外，每当你使用或打出了一张黑色手牌（若为使用则在它结算之前），你可以立即对你攻击范围内的任意一名角色使用一张【杀】。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "sp"
+    },
+    "shengdong": {
+      "id": "shengdong",
+      "name": "声东击西",
+      "description": "出牌阶段，对一名其他角色使用。你交给目标角色一张手牌，若如此做，其将两张牌交给另一名由你选择的其他角色（不足则全给，存活角色不超过2时可重铸）。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "sp"
+    },
+    "zengbin": {
+      "id": "zengbin",
+      "name": "增兵减灶",
+      "description": "出牌阶段，对一名角色使用。目标角色摸三张牌，然后选择一项：1.弃置一张非基本牌；2.弃置两张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "sp"
+    },
+    "caomu": {
+      "id": "caomu",
+      "name": "草木皆兵",
+      "description": "出牌阶段，对一名其他角色使用。将【草木皆兵】放置于该角色的判定区里，若判定结果不为梅花：摸牌阶段，目标角色少摸一张牌；摸牌阶段结束时，与其距离为1的角色各摸一张牌。",
+      "type": "delay",
+      "subtype": "",
+      "pack": "sp"
+    },
+    "zhulu_card": {
+      "id": "zhulu_card",
+      "name": "逐鹿天下",
+      "description": "出牌阶段，对所有角色使用。你从牌堆和弃牌堆亮出等同于目标角色数的装备牌，每名目标角色将其中一张牌置于自己的装备区。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "zhulu"
+    },
+    "kaihua": {
+      "id": "kaihua",
+      "name": "树上开花",
+      "description": "出牌阶段，对包含你自己在内的一名角色使用。目标角色弃置一至两张牌，然后摸等量的牌。若其以此法弃置了装备牌，则多摸一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "zhulu"
+    },
+    "jiejia": {
+      "id": "jiejia",
+      "name": "解甲归田",
+      "description": "出牌阶段，对一名装备区内有牌的角色使用。该角色获得其装备区内的所有牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "zhulu"
+    },
+    "caochuan": {
+      "id": "caochuan",
+      "name": "草船借箭",
+      "description": "当带有「伤害」标签的基本牌或普通锦囊牌对你生效前，对此牌使用。抵消此牌对你产生的效果。当此牌结算完成后，你获得此牌对应的所有实体牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "zhulu"
+    },
+    "numa": {
+      "id": "numa",
+      "name": "驽马",
+      "description": "此牌的使用目标为其他角色。锁定技，当此牌进入你的装备区时，你弃置装备区内的所有其他牌。",
+      "type": "equip",
+      "subtype": "equip4",
+      "pack": "zhulu"
+    },
+    "yajiaoqiang": {
+      "id": "yajiaoqiang",
+      "name": "涯角枪",
+      "description": "当你于一名其他角色的回合内第一次使用的黑色牌结算完成后，你可以获得此牌对应的所有实体牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "zhulu"
+    },
+    "wufengjian": {
+      "id": "wufengjian",
+      "name": "无锋剑",
+      "description": "此牌的使用目标为其他角色。锁定技，当你使用【杀】时，你弃置一张不为装备区内【无锋剑】的牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "zhulu"
+    },
+    "zheji": {
+      "id": "zheji",
+      "name": "折戟",
+      "description": "此牌的使用目标为其他角色。这是一把坏掉的武器……",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "zhulu"
+    },
+    "yinfengjia": {
+      "id": "yinfengjia",
+      "name": "引蜂甲",
+      "description": "此牌的使用目标为其他角色。锁定技，当你受到锦囊牌造成的伤害时，此伤害+1。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "zhulu"
+    },
+    "nvzhuang": {
+      "id": "nvzhuang",
+      "name": "女装",
+      "description": "此牌的使用目标为其他角色。锁定技，当此牌进入或离开你的装备区时，若你的性别为男性，你弃置一张不为此牌的牌。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "zhulu"
+    },
+    "yexingyi": {
+      "id": "yexingyi",
+      "name": "夜行衣",
+      "description": "锁定技，你不是黑色锦囊牌的合法目标。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "zhulu"
+    },
+    "jinhe": {
+      "id": "jinhe",
+      "name": "锦盒",
+      "description": "此牌的使用目标为其他角色。当你使用【锦盒】时，你将原有的与此牌对应的「礼」置入弃牌堆（若有），然后观看牌堆顶的两张牌并将其中一张置于游戏外与此牌对应，称之为「礼」。<br>出牌阶段，你可以将与此牌对应的「礼」置入弃牌堆，然后弃置【锦盒】以及所有与「礼」花色相同的手牌。当此牌因其他原因进入弃牌堆后，你将与此牌对应的「礼」置入弃牌堆并弃置所有手牌。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "zhulu"
+    },
+    "mb_qingnangshu": {
+      "id": "mb_qingnangshu",
+      "name": "青囊书",
+      "description": "锁定技，准备阶段，你加1点体力上限并回复1点体力（剩余3次）。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "huodong"
+    },
+    "mb_chuanguoyuxi": {
+      "id": "mb_chuanguoyuxi",
+      "name": "传国玉玺",
+      "description": "锁定技，弃牌阶段开始时，你摸一张牌且手牌上限永久+2，然后若你不为主公，你失去1点体力。",
+      "type": "equip",
+      "subtype": "equip5",
+      "pack": "huodong"
+    },
+    "jianhao": {
+      "id": "jianhao",
+      "name": "见好就收",
+      "description": "出牌阶段，对你使用。你展示牌堆顶一张牌，猜测牌堆顶的下张牌点数大于或小于此牌并展示。若猜对，你可选择一项：1.获得所有展示牌；2.再次猜测。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "wangmei": {
+      "id": "wangmei",
+      "name": "望梅止渴",
+      "description": "出牌阶段，对一名角色使用。直到该角色的回合结束，其所有梅花手牌均视为【桃】。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "zhisi": {
+      "id": "zhisi",
+      "name": "至死方休",
+      "description": "出牌阶段，对你使用。目标将体力上限减少至1。其每减少1点体力上限，便可视为使用一张火【杀】（至多使用九张）。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "qingsuan": {
+      "id": "qingsuan",
+      "name": "qingsuan",
+      "description": "出牌阶段，对一名对你造成过伤害的角色使用。对其随机造成0~2点伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "jiaoyou": {
+      "id": "jiaoyou",
+      "name": "火上浇油",
+      "description": "出牌阶段，对所有角色使用。目标依次展示手牌中的伤害牌，这些牌造成的伤害+1直到离开其手牌区。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "haoyun": {
+      "id": "haoyun",
+      "name": "好运",
+      "description": "出牌阶段，对你使用。你选择一种颜色，然后开始判定。如果颜色为你选择的颜色，你获得此牌且重复此流程。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "yifu": {
+      "id": "yifu",
+      "name": "义父",
+      "description": "",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "chadaox": {
+      "id": "chadaox",
+      "name": "两肋插刀",
+      "description": "出牌阶段，令场上获得“两肋插刀”光环效果。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "tianlei": {
+      "id": "tianlei",
+      "name": "天雷",
+      "description": "出牌阶段，对所有角色使用，目标角色将一张来自游戏外的【闪电】放置于其判定区。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "liehuo": {
+      "id": "liehuo",
+      "name": "烈火",
+      "description": "出牌阶段，对所有其他角色使用，令你和目标暗中选择一张手牌，若有角色与你选择的牌颜色相同，你弃置你选择的牌对这些角色各造成1点火焰伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "shenbing": {
+      "id": "shenbing",
+      "name": "神兵",
+      "description": "出牌阶段，对所有角色使用，令目标弃置装备区所有牌或依次使用牌堆不同副类型的装备牌各一张。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "jinnao": {
+      "id": "jinnao",
+      "name": "金铙",
+      "description": "",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "yinglang": {
+      "id": "yinglang",
+      "name": "鹰狼",
+      "description": "出牌阶段，对所有角色使用，令目标本轮使用牌指定其他角色为目标后，获得该目标一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "youfu": {
+      "id": "youfu",
+      "name": "有福同享",
+      "description": "",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "fugui": {
+      "id": "fugui",
+      "name": "富贵",
+      "description": "",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "tangying": {
+      "id": "tangying",
+      "name": "躺赢",
+      "description": "",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "dashi": {
+      "id": "dashi",
+      "name": "大师",
+      "description": "出牌阶段，令两名其他角色交换手牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "guilai": {
+      "id": "guilai",
+      "name": "武圣归来",
+      "description": "",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "khquanjiux": {
+      "id": "khquanjiux",
+      "name": "劝酒",
+      "description": "①出牌阶段，对所有角色使用，所有角色手牌随机变成【酒】，然后依次打出一张【酒】，重复此流程直到有角色不打出【酒】，该角色受到每名其他角色造成的1点伤害。②此牌不能被【无懈可击】响应。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "nisiwohuo": {
+      "id": "nisiwohuo",
+      "name": "你死我活",
+      "description": "①出牌阶段，对其他所有角色使用，令目标依次对距离最近的角色使用一张【杀】，否则失去1点体力，重复此流程直至有人死亡。②此牌不能被【无懈可击】响应。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "wutian": {
+      "id": "wutian",
+      "name": "无天无界",
+      "description": "出牌阶段，对自己使用，从三个可造成伤害的技能中选择一个获得至你的下回合开始。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "qixin": {
+      "id": "qixin",
+      "name": "兄弟齐心",
+      "description": "出牌阶段，对一名其他角色使用，令其重新分配你们的手牌，然后你们中手牌较少的角色摸一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "chadao": {
+      "id": "chadao",
+      "name": "两肋插刀",
+      "description": "出牌阶段，对一名其他角色使用，令其获得两张伤害牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "khquanjiu": {
+      "id": "khquanjiu",
+      "name": "劝酒",
+      "description": "出牌阶段，对所有角色使用，令目标使用一张【酒】或点数为9的牌，不使用牌的角色失去1点体力。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "luojing": {
+      "id": "luojing",
+      "name": "落井下石",
+      "description": "一名其他角色进入濒死状态时，对其使用，结束其濒死结算，其死亡后你摸一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "hongyun": {
+      "id": "hongyun",
+      "name": "红运当头",
+      "description": "出牌阶段，对你和一名有手牌的其他角色使用，令你与其各弃置至多两张牌，从牌堆或弃牌堆中获得等量张红桃牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "shengsi": {
+      "id": "shengsi",
+      "name": "生死与共",
+      "description": "其他角色濒死时，对其使用，令其回复2点体力，其死亡后你立即死亡。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "leigong": {
+      "id": "leigong",
+      "name": "雷公助我",
+      "description": "出牌阶段，对所有角色使用，令目标依次进行一次【闪电】判定，然后每有一名角色因此受到非传导伤害，你摸一张牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "younan": {
+      "id": "younan",
+      "name": "有难同当",
+      "description": "出牌阶段，对所有未处于连环状态的角色使用，令目标进入连环状态。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "huodong"
+    },
+    "tiejili": {
+      "id": "tiejili",
+      "name": "铁蒺藜骨朵",
+      "description": "准备阶段，你可以将此牌的攻击范围改为x，直到回合结束或此牌离开你的装备区（x为你的体力值）。当此牌离开你的装备区后，销毁之。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "xianxia"
+    },
+    "lx_huoshaolianying": {
+      "id": "lx_huoshaolianying",
+      "name": "火烧连营",
+      "description": "出牌阶段，对一名角色使用。你展示目标角色的一张牌，然后你可以弃置一张与展示的牌花色相同的手牌。若如此做，你弃置其被展示的牌并对其造成1点火焰伤害，然后若其处于横置状态，你获得弃置堆中的此牌。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "xianxia"
+    },
+    "suibozhuliu": {
+      "id": "suibozhuliu",
+      "name": "随波逐流",
+      "description": "出牌阶段，对你自己使用，你将此牌置于判定区。判定阶段，你进行判定，若结果为♦️，你将一张装备牌移动至下家的装备区里（若你的装备区里有坐骑牌，则你须选择其中一张坐骑牌），若无法移动则改为下家获得此装备牌。判定结束后，你将判定区里的此牌置于下家的判定区。",
+      "type": "delay",
+      "subtype": "",
+      "pack": "xianxia"
+    },
+    "ty_feilongduofeng": {
+      "id": "ty_feilongduofeng",
+      "name": "飞龙夺凤",
+      "description": "每回合限一次，当你使用【杀】指定一个目标后，你可以选择一项：1.摸一张牌；2.令其弃置一张牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "xianxia"
+    },
+    "shangfangbaojian": {
+      "id": "shangfangbaojian",
+      "name": "尚方宝剑",
+      "description": "当装备区里的此牌被弃置时，你防止之。与你势力相同的角色使用【杀】指定目标后，你可以选择一项：1：交给其一张手牌；2：获得其一张手牌。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "xianxia"
+    },
+    "qingmingjian": {
+      "id": "qingmingjian",
+      "name": "青冥剑",
+      "description": "当你于回合内首次弃置至少两张牌时，你可以对一名其他角色造成1点伤害 。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "xianxia"
+    },
+    "mengchong": {
+      "id": "mengchong",
+      "name": "艨艟",
+      "description": "锁定技，当你使用牌结算结束后，你选择与其他角色互相计算距离+1或-1直到你的下个回合开始（至多+2/-2）。",
+      "type": "equip",
+      "subtype": "equip6",
+      "pack": "xianxia"
+    },
+    "yidugongdu": {
+      "id": "yidugongdu",
+      "name": "以毒攻毒",
+      "description": "出牌阶段，对一名已受伤的角色使用。你观看其所有手牌，然后若你与其手牌中均有【毒】，弃置其中一张【毒】并与其各摸两张牌，否则你与其依次受到1点无来源伤害。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "xianxia"
+    },
+    "dajunyajing": {
+      "id": "dajunyajing",
+      "name": "大军压境",
+      "description": "出牌阶段，对一名角色使用。其以外的所有角色依次选择是否将一张牌当无距离限制的【杀】对其使用。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "xianxia"
+    },
+    "yushijiesui": {
+      "id": "yushijiesui",
+      "name": "玉石皆碎",
+      "description": "出牌阶段，对一名角色使用。你对目标角色造成1点伤害，然后失去1点体力。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "xianxia"
+    },
+    "liuyedao": {
+      "id": "liuyedao",
+      "name": "柳叶刀",
+      "description": "你使用【杀】造成伤害时，可以弃置两张手牌令此伤害+1。",
+      "type": "equip",
+      "subtype": "equip1",
+      "pack": "xianxia"
+    },
+    "zj_yexingyi": {
+      "id": "zj_yexingyi",
+      "name": "夜行衣",
+      "description": "锁定技，红色的【杀】对你无效。",
+      "type": "equip",
+      "subtype": "equip2",
+      "pack": "xianxia"
+    },
+    "zj_lianjunshengyan": {
+      "id": "zj_lianjunshengyan",
+      "name": "联军盛宴",
+      "description": "出牌阶段，对你和一名其他角色使用。选择一项令所有目标执行：1.摸一张牌；2.回复1点体力。",
+      "type": "trick",
+      "subtype": "",
+      "pack": "xianxia"
+    }
+  },
+  "counts": {
+    "standard": 108,
+    "extra": 53,
+    "guozhan": 27,
+    "yingbian": 161,
+    "yongjian": 52,
+    "sp": 19,
+    "zhulu": 32,
+    "huodong": 69,
+    "xianxia": 11
+  }
+}

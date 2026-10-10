@@ -1,0 +1,2836 @@
+[
+  {
+    "id": "zhutiexiong",
+    "targets": [
+      [
+        "wu_zhutiexiong",
+        [
+          "die:zhutiexiong"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/collab/index.js",
+    "line": 23,
+    "scope": "character/collab",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/collab/index.js"
+  },
+  {
+    "id": "liuxiecaojie",
+    "targets": [
+      [
+        "liuxiecaojie_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/collab/index.js",
+    "line": 24,
+    "scope": "character/collab",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/collab/index.js"
+  },
+  {
+    "id": "yuanshaoyuanshu",
+    "targets": [
+      [
+        "yuanshaoyuanshu_shao",
+        []
+      ],
+      [
+        "yuanshaoyuanshu_shu",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/collab/index.js",
+    "line": 25,
+    "scope": "character/collab",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/collab/index.js"
+  },
+  {
+    "id": "taipingsangong",
+    "targets": [
+      [
+        "taipingsangong_ultimate",
+        [
+          "die:taipingsangong"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/collab/index.js",
+    "line": 29,
+    "scope": "character/collab",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/collab/index.js"
+  },
+  {
+    "id": "jsrg_simazhao",
+    "targets": [
+      [
+        "jin_jsrg_simazhao",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/jsrg/index.js",
+    "line": 23,
+    "scope": "character/jsrg",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/jsrg/index.js"
+  },
+  {
+    "id": "mb_caomao",
+    "targets": [
+      [
+        "mb_caomao_shadow",
+        [
+          "die:mb_caomao"
+        ]
+      ],
+      [
+        "mb_caomao_dead",
+        [
+          "die:mb_caomao"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 28,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "shichangshi",
+    "targets": [
+      [
+        "shichangshi_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 32,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_zhangrang",
+    "targets": [
+      [
+        "scs_zhangrang_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 33,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_zhaozhong",
+    "targets": [
+      [
+        "scs_zhaozhong_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 34,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_sunzhang",
+    "targets": [
+      [
+        "scs_sunzhang_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 35,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_bilan",
+    "targets": [
+      [
+        "scs_bilan_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 36,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_xiayun",
+    "targets": [
+      [
+        "scs_xiayun_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 37,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_hankui",
+    "targets": [
+      [
+        "scs_hankui_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 38,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_lisong",
+    "targets": [
+      [
+        "scs_lisong_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 39,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_duangui",
+    "targets": [
+      [
+        "scs_duangui_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 40,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_guosheng",
+    "targets": [
+      [
+        "scs_guosheng_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 41,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_gaowang",
+    "targets": [
+      [
+        "scs_gaowang_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 42,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "pot_taishici",
+    "targets": [
+      [
+        "pot_taishici_shadow1",
+        [
+          "die:pot_taishici"
+        ]
+      ],
+      [
+        "pot_taishici_shadow2",
+        [
+          "die:pot_taishici"
+        ]
+      ],
+      [
+        "pot_taishici_shadow3",
+        [
+          "die:pot_taishici"
+        ]
+      ],
+      [
+        "pot_taishici_shadow4",
+        [
+          "die:pot_taishici"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 43,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "pot_weiyan",
+    "targets": [
+      [
+        "pot_weiyan_achieve",
+        []
+      ],
+      [
+        "pot_weiyan_fail",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 49,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "mb_simazhao",
+    "targets": [
+      [
+        "jin_jsrg_simazhao",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 53,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "pot_yuji",
+    "targets": [
+      [
+        "pot_yuji_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 54,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "mb_zerong",
+    "targets": [
+      [
+        "mb_zerong_red",
+        [
+          "die:mb_zerong"
+        ]
+      ],
+      [
+        "mb_zerong_black",
+        [
+          "die:mb_zerong"
+        ]
+      ],
+      [
+        "mb_zerong_all",
+        [
+          "die:mb_zerong"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 55,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "mb_cuilingyi",
+    "targets": [
+      [
+        "mb_cuilingyi_guidian1",
+        [
+          "character:mb_cuilingyi",
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_guidian2",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_guidian3",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_dongjiao1",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_dongjiao2",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_dongjiao3",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_xiuge1",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_xiuge2",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_xiuge3",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 60,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/mobile/index.js"
+  },
+  {
+    "id": "yj_sb_guojia",
+    "targets": [
+      [
+        "yj_sb_guojia_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/newjiang/index.js",
+    "line": 24,
+    "scope": "character/newjiang",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/newjiang/index.js"
+  },
+  {
+    "id": "jd_sb_sp_zhugeliang",
+    "targets": [
+      [
+        "sb_zhugeliang",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 26,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_zhenji",
+    "targets": [
+      [
+        "awaken_shinin_zhenji",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 27,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_wuguotai",
+    "targets": [
+      [
+        "awaken_shinin_wuguotai",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 28,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_ruiji",
+    "targets": [
+      [
+        "awaken_shinin_ruiji",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 29,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_lvlingqi",
+    "targets": [
+      [
+        "awaken_shinin_lvlingqi",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 30,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_dongwan",
+    "targets": [
+      [
+        "awaken_shinin_dongwan",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 31,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/offline/index.js"
+  },
+  {
+    "id": "zc26_sp_xushi",
+    "targets": [
+      [
+        "zc26_sp_xushi_shadow",
+        [
+          "die:xushi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 32,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/offline/index.js"
+  },
+  {
+    "id": "ol_sb_yuanshao",
+    "targets": [
+      [
+        "ol_sb_yuanshao_shadow",
+        [
+          "die:ol_sb_yuanshao"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/onlyOL/index.js",
+    "line": 27,
+    "scope": "character/onlyOL",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/onlyOL/index.js"
+  },
+  {
+    "id": "ol_sb_dongzhuo",
+    "targets": [
+      [
+        "ol_sb_dongzhuo_shadow1",
+        [
+          "die:ol_sb_dongzhuo",
+          "tempname:ol_sb_dongzhuo"
+        ]
+      ],
+      [
+        "ol_sb_dongzhuo_shadow2",
+        [
+          "die:ol_sb_dongzhuo",
+          "tempname:ol_sb_dongzhuo"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/onlyOL/index.js",
+    "line": 28,
+    "scope": "character/onlyOL",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/onlyOL/index.js"
+  },
+  {
+    "id": "ol_sb_zhangrang",
+    "targets": [
+      [
+        "ol_sb_zhangrang_shadow",
+        [
+          "die:ol_sb_zhangrang"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/onlyOL/index.js",
+    "line": 32,
+    "scope": "character/onlyOL",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/onlyOL/index.js"
+  },
+  {
+    "id": "sb_sp_zhugeliang",
+    "targets": [
+      [
+        "sb_zhugeliang",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/sb/index.js",
+    "line": 26,
+    "scope": "character/sb",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/sb/index.js"
+  },
+  {
+    "id": "sp_ol_caocao",
+    "targets": [
+      [
+        "sp_ol_caocao_shadow",
+        [
+          "die:sp_ol_caocao"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/sp/index.js",
+    "line": 26,
+    "scope": "character/sp",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/sp/index.js"
+  },
+  {
+    "id": "huan_zhugeliang",
+    "targets": [
+      [
+        "huan_zhugeliang_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/tw/index.js",
+    "line": 28,
+    "scope": "character/tw",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/tw/index.js"
+  },
+  {
+    "id": "huan_caoang",
+    "targets": [
+      [
+        "huan_caoang_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/tw/index.js",
+    "line": 29,
+    "scope": "character/tw",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/tw/index.js"
+  },
+  {
+    "id": "tw_sb_sp_zhugeliang",
+    "targets": [
+      [
+        "sb_zhugeliang",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/tw/index.js",
+    "line": 30,
+    "scope": "character/tw",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/tw/index.js"
+  },
+  {
+    "id": "dc_sb_simayi",
+    "targets": [
+      [
+        "dc_sb_simayi_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 24,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_zhouyu",
+    "targets": [
+      [
+        "dc_sb_zhouyu_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 25,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_lusu",
+    "targets": [
+      [
+        "dc_sb_lusu_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 26,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_jiaxu",
+    "targets": [
+      [
+        "dc_sb_jiaxu_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 27,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_xunyu",
+    "targets": [
+      [
+        "dc_sb_xunyu_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 28,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_jiangwei",
+    "targets": [
+      [
+        "dc_sb_jiangwei_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 29,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_luxun",
+    "targets": [
+      [
+        "dc_sb_luxun_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 30,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_pangtong",
+    "targets": [
+      [
+        "dc_sb_pangtong_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 31,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/character/xianding/index.js"
+  },
+  {
+    "id": "hs_sthrall",
+    "targets": [
+      "hs_totemic",
+      "hs_alakir",
+      "hs_neptulon",
+      "hs_yngvar"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/hearth/perfectPair.js",
+    "line": 2,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/hearth/perfectPair.js"
+  },
+  {
+    "id": "hs_anduin",
+    "targets": [
+      "hs_wvelen",
+      "hs_mijiaojisi"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/hearth/perfectPair.js",
+    "line": 3,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/hearth/perfectPair.js"
+  },
+  {
+    "id": "hs_jaina",
+    "targets": [
+      "hs_antonidas"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/hearth/perfectPair.js",
+    "line": 4,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/hearth/perfectPair.js"
+  },
+  {
+    "id": "hs_malfurion",
+    "targets": [
+      "hs_malorne"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/hearth/perfectPair.js",
+    "line": 5,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/hearth/perfectPair.js"
+  },
+  {
+    "id": "swd_fengtianling",
+    "targets": [
+      "swd_huyue",
+      "swd_jiting"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 2,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_rongshuang",
+    "targets": [
+      "swd_zhuoshanzhu"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 3,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_jialanduo",
+    "targets": [
+      "swd_zhuoshanzhu"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 4,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_sikongyu",
+    "targets": [
+      "swd_muyue"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 5,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_fengyu",
+    "targets": [
+      "swd_ziqiao"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 6,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_zhaoyun",
+    "targets": [
+      "swd_hengai",
+      "swd_yeyaxi",
+      "zhaoyun"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 7,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_hengai",
+    "targets": [
+      "zhugeliang",
+      "sp_zhugeliang"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 8,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_duanmeng",
+    "targets": [
+      "swd_shangzhang"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 9,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_shangzhang",
+    "targets": [
+      "swd_situqiang"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 10,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_tuwei",
+    "targets": [
+      "swd_hengai"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 11,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_jiangwu",
+    "targets": [
+      "swd_zhaoyun"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 12,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_muyun",
+    "targets": [
+      "swd_lanyin",
+      "swd_zhiyin",
+      "swd_zhanggao",
+      "xushu"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 13,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_lanyin",
+    "targets": [
+      "swd_zhiyin"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 14,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_yuli",
+    "targets": [
+      "swd_chunyuheng"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 15,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_jiuyou",
+    "targets": [
+      "swd_zhiyin"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 16,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_qiner",
+    "targets": [
+      "swd_hengai"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 17,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_huzhongxian",
+    "targets": [
+      "swd_jiliang",
+      "swd_jipeng",
+      "swd_xiyan"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 18,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_anka",
+    "targets": [
+      "swd_kama"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 19,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_septem",
+    "targets": [
+      "swd_nicole",
+      "swd_kama",
+      "swd_weida",
+      "swd_wangsiyue",
+      "swd_huiyan"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 20,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_nicole",
+    "targets": [
+      "swd_lilian"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 21,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_xuanyuanjianxian",
+    "targets": [
+      "swd_xuanyuanjiantong"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 22,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_chenjingchou",
+    "targets": [
+      "swd_yuxiaoxue",
+      "swd_tuobayuer"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 23,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_yuxiaoxue",
+    "targets": [
+      "swd_yuwentuo"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 24,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_zhanglie",
+    "targets": [
+      "swd_tuobayuer"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 25,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_duguningke",
+    "targets": [
+      "swd_yuwentuo",
+      "swd_shanxiaoxiao",
+      "swd_yuchiyanhong"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 26,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_jiliang",
+    "targets": [
+      "swd_shuijing",
+      "swd_jipeng"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 27,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_jipeng",
+    "targets": [
+      "swd_duopeng"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 28,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_cheyun",
+    "targets": [
+      "swd_huanyuanzhi",
+      "swd_murongshi"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 29,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_murongshi",
+    "targets": [
+      "swd_huanyuanzhi",
+      "swd_shuijing"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 30,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_huanyuanzhi",
+    "targets": [
+      "swd_jipeng"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 31,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_qi",
+    "targets": [
+      "swd_huzhongxian"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 32,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "swd_luchengxuan",
+    "targets": [
+      "swd_xiarou"
+    ],
+    "kind": "perfectPair",
+    "source": "extension/杀海拾遗/character/swd/perfectPair.js",
+    "line": 33,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/swd/perfectPair.js"
+  },
+  {
+    "id": "diy_luxun",
+    "targets": [
+      "diy_lukang"
+    ],
+    "kind": "perfectPairs",
+    "source": "extension/杀海拾遗/character/yunchou/perfectPairs.js",
+    "line": 2,
+    "scope": "extension/杀海拾遗",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/杀海拾遗/character/yunchou/perfectPairs.js"
+  },
+  {
+    "id": "djc_huan_lihuowang",
+    "targets": [
+      [
+        "djc_huan_lihuowang_shadow",
+        [
+          null
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "extension/点绛唇/character/characterSubstitute.js",
+    "line": 4,
+    "scope": "extension/点绛唇",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/点绛唇/character/characterSubstitute.js"
+  },
+  {
+    "id": "fhq_luxun",
+    "targets": [
+      [
+        "fhq_luxun_shadow",
+        [
+          null
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "extension/点绛唇/character/characterSubstitute.js",
+    "line": 7,
+    "scope": "extension/点绛唇",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/点绛唇/character/characterSubstitute.js"
+  },
+  {
+    "id": "fhq_zhujun",
+    "targets": [
+      [
+        "fhq_zhujun_shadow",
+        [
+          null
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "extension/点绛唇/character/characterSubstitute.js",
+    "line": 10,
+    "scope": "extension/点绛唇",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/点绛唇/character/characterSubstitute.js"
+  },
+  {
+    "id": "fhq_xunyou",
+    "targets": [
+      [
+        "fhq_xunyou_shadow",
+        [
+          null
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "extension/点绛唇/character/characterSubstitute.js",
+    "line": 13,
+    "scope": "extension/点绛唇",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/点绛唇/character/characterSubstitute.js"
+  },
+  {
+    "id": "fhq_clan_xunyu",
+    "targets": [
+      [
+        "fhq_clan_xunyu_shadow",
+        [
+          null
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "extension/点绛唇/character/characterSubstitute.js",
+    "line": 16,
+    "scope": "extension/点绛唇",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/extension/点绛唇/character/characterSubstitute.js"
+  },
+  {
+    "id": "boss_mingxingzhu",
+    "targets": [
+      [
+        "boss_mingxingzhu_shadow",
+        [
+          "img:image/mode/boss/character/boss_mingxingzhu_shadow.jpg"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "mode/boss.js",
+    "line": 1660,
+    "scope": "mode/boss.js",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "shijian",
+    "sourceLabel": "诗笺移动包",
+    "sourcePath": "package/mode/boss.js"
+  },
+  {
+    "id": "zhutiexiong",
+    "targets": [
+      [
+        "wu_zhutiexiong",
+        [
+          "die:zhutiexiong"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/collab.js",
+    "line": 11147,
+    "scope": "character/collab",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/collab.js"
+  },
+  {
+    "id": "liuxiecaojie",
+    "targets": [
+      [
+        "liuxiecaojie_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/collab.js",
+    "line": 11148,
+    "scope": "character/collab",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/collab.js"
+  },
+  {
+    "id": "yuanshaoyuanshu",
+    "targets": [
+      [
+        "yuanshaoyuanshu_shao",
+        []
+      ],
+      [
+        "yuanshaoyuanshu_shu",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/collab.js",
+    "line": 11149,
+    "scope": "character/collab",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/collab.js"
+  },
+  {
+    "id": "taipingsangong",
+    "targets": [
+      [
+        "taipingsangong_ultimate",
+        [
+          "die:taipingsangong"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/collab.js",
+    "line": 11153,
+    "scope": "character/collab",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/collab.js"
+  },
+  {
+    "id": "ol_re_nianshou",
+    "targets": [
+      [
+        "ol_re_nianshou_level1",
+        []
+      ],
+      [
+        "ol_re_nianshou_level2",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/collab.js",
+    "line": 11154,
+    "scope": "character/collab",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/collab.js"
+  },
+  {
+    "id": "jsrg_simazhao",
+    "targets": [
+      [
+        "jin_jsrg_simazhao",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/jsrg.js",
+    "line": 14326,
+    "scope": "character/jsrg",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/jsrg.js"
+  },
+  {
+    "id": "yj_sb_guojia",
+    "targets": [
+      [
+        "yj_sb_guojia_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/newjiang.js",
+    "line": 8135,
+    "scope": "character/newjiang",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/newjiang.js"
+  },
+  {
+    "id": "mb_caomao",
+    "targets": [
+      [
+        "mb_caomao_shadow",
+        [
+          "die:mb_caomao"
+        ]
+      ],
+      [
+        "mb_caomao_dead",
+        [
+          "die:mb_caomao"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 28,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "shichangshi",
+    "targets": [
+      [
+        "shichangshi_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 32,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_zhangrang",
+    "targets": [
+      [
+        "scs_zhangrang_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 33,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_zhaozhong",
+    "targets": [
+      [
+        "scs_zhaozhong_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 34,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_sunzhang",
+    "targets": [
+      [
+        "scs_sunzhang_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 35,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_bilan",
+    "targets": [
+      [
+        "scs_bilan_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 36,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_xiayun",
+    "targets": [
+      [
+        "scs_xiayun_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 37,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_hankui",
+    "targets": [
+      [
+        "scs_hankui_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 38,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_lisong",
+    "targets": [
+      [
+        "scs_lisong_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 39,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_duangui",
+    "targets": [
+      [
+        "scs_duangui_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 40,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_guosheng",
+    "targets": [
+      [
+        "scs_guosheng_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 41,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "scs_gaowang",
+    "targets": [
+      [
+        "scs_gaowang_dead",
+        [
+          "die:shichangshi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 42,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "pot_taishici",
+    "targets": [
+      [
+        "pot_taishici_shadow1",
+        [
+          "die:pot_taishici"
+        ]
+      ],
+      [
+        "pot_taishici_shadow2",
+        [
+          "die:pot_taishici"
+        ]
+      ],
+      [
+        "pot_taishici_shadow3",
+        [
+          "die:pot_taishici"
+        ]
+      ],
+      [
+        "pot_taishici_shadow4",
+        [
+          "die:pot_taishici"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 43,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "pot_weiyan",
+    "targets": [
+      [
+        "pot_weiyan_achieve",
+        []
+      ],
+      [
+        "pot_weiyan_fail",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 49,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "mb_simazhao",
+    "targets": [
+      [
+        "jin_jsrg_simazhao",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 53,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "pot_yuji",
+    "targets": [
+      [
+        "pot_yuji_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 54,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "mb_zerong",
+    "targets": [
+      [
+        "mb_zerong_red",
+        [
+          "die:mb_zerong"
+        ]
+      ],
+      [
+        "mb_zerong_black",
+        [
+          "die:mb_zerong"
+        ]
+      ],
+      [
+        "mb_zerong_all",
+        [
+          "die:mb_zerong"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 55,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "mb_cuilingyi",
+    "targets": [
+      [
+        "mb_cuilingyi_guidian1",
+        [
+          "character:mb_cuilingyi",
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_guidian2",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_guidian3",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_dongjiao1",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_dongjiao2",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_dongjiao3",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_xiuge1",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_xiuge2",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ],
+      [
+        "mb_cuilingyi_xiuge3",
+        [
+          "die:mb_cuilingyi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 60,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "zhuji",
+    "targets": [
+      [
+        "zhuji_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 71,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "pot_zhouyu",
+    "targets": [
+      [
+        "pot_zhouyu_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/mobile/index.js",
+    "line": 72,
+    "scope": "character/mobile",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/mobile/index.js"
+  },
+  {
+    "id": "jd_sb_sp_zhugeliang",
+    "targets": [
+      [
+        "sb_zhugeliang",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 26,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_zhenji",
+    "targets": [
+      [
+        "awaken_shinin_zhenji",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 27,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_wuguotai",
+    "targets": [
+      [
+        "awaken_shinin_wuguotai",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 28,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_ruiji",
+    "targets": [
+      [
+        "awaken_shinin_ruiji",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 29,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_lvlingqi",
+    "targets": [
+      [
+        "awaken_shinin_lvlingqi",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 30,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/offline/index.js"
+  },
+  {
+    "id": "shinin_dongwan",
+    "targets": [
+      [
+        "awaken_shinin_dongwan",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 31,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/offline/index.js"
+  },
+  {
+    "id": "zc26_sp_xushi",
+    "targets": [
+      [
+        "zc26_sp_xushi_shadow",
+        [
+          "die:xushi"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 32,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/offline/index.js"
+  },
+  {
+    "id": "sm_shenmo_sunquan",
+    "targets": [
+      [
+        "sm_shen_sunquan",
+        []
+      ],
+      [
+        "sm_mo_sunquan",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/offline/index.js",
+    "line": 33,
+    "scope": "character/offline",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/offline/index.js"
+  },
+  {
+    "id": "ol_sb_yuanshao",
+    "targets": [
+      [
+        "ol_sb_yuanshao_shadow",
+        [
+          "die:ol_sb_yuanshao"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/onlyOL/index.js",
+    "line": 27,
+    "scope": "character/onlyOL",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/onlyOL/index.js"
+  },
+  {
+    "id": "ol_sb_dongzhuo",
+    "targets": [
+      [
+        "ol_sb_dongzhuo_shadow1",
+        [
+          "die:ol_sb_dongzhuo",
+          "tempname:ol_sb_dongzhuo"
+        ]
+      ],
+      [
+        "ol_sb_dongzhuo_shadow2",
+        [
+          "die:ol_sb_dongzhuo",
+          "tempname:ol_sb_dongzhuo"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/onlyOL/index.js",
+    "line": 28,
+    "scope": "character/onlyOL",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/onlyOL/index.js"
+  },
+  {
+    "id": "ol_sb_zhangrang",
+    "targets": [
+      [
+        "ol_sb_zhangrang_shadow",
+        [
+          "die:ol_sb_zhangrang"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/onlyOL/index.js",
+    "line": 32,
+    "scope": "character/onlyOL",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/onlyOL/index.js"
+  },
+  {
+    "id": "sb_sp_zhugeliang",
+    "targets": [
+      [
+        "sb_zhugeliang",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/sb/index.js",
+    "line": 26,
+    "scope": "character/sb",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/sb/index.js"
+  },
+  {
+    "id": "sp_ol_caocao",
+    "targets": [
+      [
+        "sp_ol_caocao_shadow",
+        [
+          "die:sp_ol_caocao"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/sp/index.js",
+    "line": 26,
+    "scope": "character/sp",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/sp/index.js"
+  },
+  {
+    "id": "huan_zhugeliang",
+    "targets": [
+      [
+        "huan_zhugeliang_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/tw/index.js",
+    "line": 28,
+    "scope": "character/tw",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/tw/index.js"
+  },
+  {
+    "id": "huan_caoang",
+    "targets": [
+      [
+        "huan_caoang_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/tw/index.js",
+    "line": 29,
+    "scope": "character/tw",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/tw/index.js"
+  },
+  {
+    "id": "tw_sb_sp_zhugeliang",
+    "targets": [
+      [
+        "sb_zhugeliang",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/tw/index.js",
+    "line": 30,
+    "scope": "character/tw",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/tw/index.js"
+  },
+  {
+    "id": "v_sunshangxiang",
+    "targets": [
+      [
+        "v_sunshangxiang_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 24,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "v_zhangxingcai",
+    "targets": [
+      [
+        "v_zhangxingcai_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 25,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_simayi",
+    "targets": [
+      [
+        "dc_sb_simayi_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 26,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_zhouyu",
+    "targets": [
+      [
+        "dc_sb_zhouyu_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 27,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_lusu",
+    "targets": [
+      [
+        "dc_sb_lusu_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 28,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_jiaxu",
+    "targets": [
+      [
+        "dc_sb_jiaxu_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 29,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_xunyu",
+    "targets": [
+      [
+        "dc_sb_xunyu_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 30,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_jiangwei",
+    "targets": [
+      [
+        "dc_sb_jiangwei_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 31,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_luxun",
+    "targets": [
+      [
+        "dc_sb_luxun_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 32,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_pangtong",
+    "targets": [
+      [
+        "dc_sb_pangtong_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 33,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "dc_sb_zhugeliang",
+    "targets": [
+      [
+        "dc_sb_zhugeliang_shadow",
+        []
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "character/xianding/index.js",
+    "line": 34,
+    "scope": "character/xianding",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/character/xianding/index.js"
+  },
+  {
+    "id": "boss_mingxingzhu",
+    "targets": [
+      [
+        "boss_mingxingzhu_shadow",
+        [
+          "img:image/mode/boss/character/boss_mingxingzhu_shadow.jpg"
+        ]
+      ]
+    ],
+    "kind": "characterSubstitute",
+    "source": "mode/boss.js",
+    "line": 1676,
+    "scope": "mode/boss.js",
+    "evidenceType": "package_setting",
+    "historicalClaim": false,
+    "originPackage": "ziqi",
+    "sourceLabel": "子琪电脑版",
+    "sourcePath": "desktop-package/mode/boss.js"
+  }
+]

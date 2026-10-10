@@ -1,0 +1,1 @@
+(async()=>{const box=document.getElementById('readme-content');try{const r=await fetch('/readme.md');if(!r.ok)throw Error();box.textContent=await r.text();}catch{box.textContent='说明读取失败，请打开 outputs/readme.md。';}})();

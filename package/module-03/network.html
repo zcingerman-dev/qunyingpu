@@ -1,0 +1,10 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>群英谱 · 本地联机</title><link rel="stylesheet" href="play.css"><link rel="stylesheet" href="network.css"><link rel="stylesheet" href="appearance.css"><script type="module" src="network-ui.js"></script></head><body>
+<header class="masthead"><a class="brand" href="index.html"><span class="seal">战</span><span>群英谱<small>本地联机 · 第一阶段</small></span></a><a href="internet.html">临时互联网房间</a><a href="index.html">返回本地单机</a></header>
+<main><div class="intro"><span class="eyebrow">同一台电脑，两个客户端</span><h1>本地联机</h1><p>Host运行规则，双方通过操作面板提交选择。先验证两个真人座位的点将单挑。</p></div>
+<div id="connection-status" class="game-status" role="status">正在连接本机服务…</div>
+<section id="lobby" class="network-grid"><div class="panel"><h2>建立Host</h2><p>第一阶段使用标准包、单将、标准＋军争牌堆，关闭手气卡。</p><label>Host武将<select id="host-general" aria-label="Host武将"></select></label><label>Client武将<select id="client-general" aria-label="Client武将"></select></label><button id="create-host" class="primary">建立Host会话</button></div><div class="panel"><h2>加入Client</h2><p>在另一个本地浏览器标签页打开本页面，输入Host显示的会话码。</p><label>本机会话码<input id="room-code" autocomplete="off" maxlength="8" placeholder="输入8位会话码"></label><button id="join-client" class="primary">作为Client加入</button></div></section>
+<section id="session" hidden><div class="panel network-room-panel"><strong id="role-label"></strong><p id="session-status"></p><div class="network-buttons"><button id="start-network" class="primary" hidden>开始联机对局</button><button id="close-network" hidden>结束本机会话</button><button id="new-network" hidden>返回联机会话设置</button></div></div>
+<div id="network-table"></div>
+<details class="panel"><summary>联机事件与状态核对</summary><p id="state-proof"></p><pre id="network-events"></pre></details></section>
+<p class="hint">仅本机测试：尚不支持跨电脑、互联网房间、房主迁移或最终隐藏信息保护。Host页面须保持打开；连接中断时等待恢复，不自动代打。</p>
+<iframe id="network-engine" title="Host规则执行器" class="network-engine" sandbox="allow-scripts allow-same-origin"></iframe></main></body></html>
